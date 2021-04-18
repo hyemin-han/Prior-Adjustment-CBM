@@ -1,0 +1,12 @@
+Cluster #	x	y	z	ALE	P	Z	Label (Nearest Gray Matter within 5mm)
+1	42	-46	-20	0.045543034	3.0508067E-13	7.1984453	Right Cerebrum.Temporal Lobe.Fusiform Gyrus.Gray Matter.Brodmann area 37
+1	30	-44	-12	0.04027943	2.034951E-11	6.6016665	Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 36
+1	30	-60	-8	0.018280761	1.1639757E-4	3.680481	Right Cerebrum.Occipital Lobe.Fusiform Gyrus.Gray Matter.Brodmann area 19
+2	-42	-54	-24	0.039018173	5.4357057E-11	6.4544454	Left Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+2	-26	-44	-16	0.028537061	1.2880741E-7	5.1521077	Left Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+3	-20	-4	-18	0.03203971	1.04473425E-8	5.6044803	Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Amygdala
+4	40	-72	-16	0.027279919	3.1130114E-7	4.984093	Right Cerebellum.Posterior Lobe.Declive.Gray Matter.*
+4	48	-76	-4	0.02193526	1.1383364E-5	4.2358756	Right Cerebrum.Occipital Lobe.Inferior Occipital Gyrus.Gray Matter.Brodmann area 19
+5	24	-6	-20	0.035070136	1.1071618E-9	5.9813347	Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Amygdala
+6	40	24	-10	0.02681234	4.31626E-7	4.920516	Right Cerebrum.Sub-lobar.Extra-Nuclear.Gray Matter.Brodmann area 47
+6	34	18	-14	0.022075068	1.0389829E-5	4.256349	Right Cerebrum.Sub-lobar.Extra-Nuclear.Gray Matter.Brodmann area 13

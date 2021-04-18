@@ -1,0 +1,3044 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE workspace SYSTEM "http://www.brainmap.org/DTDs/Workspace-1.1.dtd">
+<workspace>
+
+   <color>
+      <colorName>Black</colorName>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Red</colorName>
+      <r>255</r>
+      <g>0</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Green</colorName>
+      <r>0</r>
+      <g>220</g>
+      <b>50</b>
+   </color>
+   <color>
+      <colorName>Blue</colorName>
+      <r>0</r>
+      <g>0</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Gray</colorName>
+      <r>128</r>
+      <g>128</g>
+      <b>128</b>
+   </color>
+   <color>
+      <colorName>Brown</colorName>
+      <r>150</r>
+      <g>100</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Purple</colorName>
+      <r>180</r>
+      <g>100</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Cyan</colorName>
+      <r>0</r>
+      <g>230</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Magenta</colorName>
+      <r>255</r>
+      <g>0</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Orange</colorName>
+      <r>255</r>
+      <g>200</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Pink</colorName>
+      <r>255</r>
+      <g>175</g>
+      <b>225</b>
+   </color>
+   <color>
+      <colorName>Yellow</colorName>
+      <r>240</r>
+      <g>240</g>
+      <b>0</b>
+   </color>
+
+   <database>
+      <functional/>
+   </database>
+
+   <simplePaper>
+      <id>30014</id>
+      <colorName>Black</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Odor Working Memory - Baseline</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Face Working Memory - Baseline</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Conjunction Analysis</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30051</id>
+      <colorName>Red</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Spatial Working Memory vs. Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Nonspatial Working Memory vs. Control</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30064</id>
+      <colorName>Green</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Pictures &gt; Words</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Words &gt; Pictures</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Mixed &gt; (Pictures and Words)</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30100</id>
+      <colorName>Blue</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>MAT vs. MAT CONT</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>REP vs. REP CONT</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>REP vs. MAT</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30101</id>
+      <colorName>Gray</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Positive Reward Effect</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative Reward Effect</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30139</id>
+      <colorName>Brown</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Letters &gt; Faces and Buildings</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Memory-Words &gt; Blank</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Faces &gt; Letters and Buildings</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30199</id>
+      <colorName>Purple</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Activations in Controls, GLM</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Activations in Controls, CVA</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Activations in PTSD Patients, GLM</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Activations in PTSD Patients, CVA</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30200</id>
+      <colorName>Cyan</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Common Activation</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual Recognition &gt; Spatial Recognition</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Recognition &gt; Visual Recognition</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Common Deactivation</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30214</id>
+      <colorName>Magenta</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>(Calculation - Digit Reading) and (NBack - 0Back)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>(Calculation - Digit Reading) - (NBack - 0Back)</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30243</id>
+      <colorName>Orange</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Variable Target &gt; Fixed Target</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30283</id>
+      <colorName>Pink</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Duration vs. Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Intensity vs. Control</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30371</id>
+      <colorName>Yellow</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Working Memory</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Long Term Memory Encoding</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Long Term Memory Retrieval</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Words</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Faces</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30372</id>
+      <colorName>Orange</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Brain Areas Showing Monotonic Increases in Activity as a Function of Memory Load</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30374</id>
+      <colorName>Red</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Significant Increases in Activation as a Function of Working Memory Load</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30375</id>
+      <colorName>Gray</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Two-Back vs. Zero-Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>One-Back vs. Zero-Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Two-Back vs. One-Back</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30381</id>
+      <colorName>Magenta</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Working Memory Load</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30420</id>
+      <colorName>Orange</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Sternberg</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>n-Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sternberg and n-Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>n-Back &gt; Sternberg</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sternberg &gt; n-Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Encoding</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Responding</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Encoding and Responding</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Responding &gt; Encoding</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30425</id>
+      <colorName>Pink</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Memory - Motor, Pooled Data</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor - Rest, Pooled Data</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual - Rest, Pooled Data</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Memory - Motor, Boston Site</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Memory - Motor, Madison Site</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Memory - Motor, Minnesota Site</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Memory - Motor, Pittsburgh Site</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor - Visual, Boston Site</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor - Visual, Madison Site</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor - Visual, Minnesota Site</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Motor - Visual, Pittsburgh Site</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual - Rest, Boston Site</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual - Rest, Pittsburgh Site</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30428</id>
+      <colorName>Black</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Memory - Control</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30429</id>
+      <colorName>Red</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Load</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Time</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Load x Time</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30433</id>
+      <colorName>Green</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Verbal Task, AA</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Task, AA</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbal Task, CA</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Task, CA</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbal Task, KH</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Task, KH</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbal Task, AM</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Task, AM</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbal Task, CM</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Task, CM</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbal Task, HT</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Task, HT</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbal Task, RK</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Task, RK</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbal Task, DB</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Task, DB</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30442</id>
+      <colorName>Blue</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Conjunction Analysis</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Real Object WM vs. Spatial WM</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial WM vs. Real Object WM</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial WM vs. Shape WM</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial WM vs. Verbal WM</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbal WM vs. Spatial WM</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30443</id>
+      <colorName>Brown</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Activation vs. Baseline</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30444</id>
+      <colorName>Magenta</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>3-back minus Control, Activations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-back minus Control, Deactivations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back minus Control, Activations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back minus Control, Deactivations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-back minus Control, Activations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-back minus Control, Deactivations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>0-back minus Control, Activations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>0-back minus Control, Deactivations</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30445</id>
+      <colorName>Black</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Simple Pictures - Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>English Words - Control</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Korean Words - Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Conjunction, English Words and Simple Pictures</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Conjunction, Korean Words and Simple Pictures</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Conjunction, English Words and Korean Words</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Korean Words vs. Simple Pictures</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>English Words vs. Simple Pictures</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>English Words vs. Korean Words</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Korean Words vs. English Words</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30447</id>
+      <colorName>Brown</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>3-Back vs. 1-Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. 1-Back</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30448</id>
+      <colorName>Purple</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Shapes &gt; Letters</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Letters &gt; Shapes</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Letters and Shapes Interactions</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Locations &gt; Letters</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Locations and Letters Interactions</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Locations &gt; Shapes</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Shapes &gt; Locations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Shapes and Locations Interactions</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30449</id>
+      <colorName>Cyan</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Spatial Span - Visuomotor Control</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Manipulation - Visuomotor Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Manipulation - Spatial Span</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30452</id>
+      <colorName>Gray</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Two-Back vs. Zero-Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>One-Back vs. Zero-Back</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30457</id>
+      <colorName>Yellow</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Verbal Memory - Control</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Memory - Control</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbal 3-Back - Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial 3-Back - Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbal 2-Back - Control</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>4020001</id>
+      <colorName>Red</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Item Recognition Memory - Control</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back - Search Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back - Rehearsal Control</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>4020009</id>
+      <colorName>Brown</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back - Control, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back - Control, Patients</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>4020014</id>
+      <colorName>Gray</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Letter 1Back - 0Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Fractal 1Back - 0Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Letter 2Back - 0Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Fractal 2Back - 0Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2Back - 0Back, Letter - Fractal</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Letter 2Back - 1Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Fractal 2Back - 1Back</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>4020015</id>
+      <colorName>Cyan</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Visual Memory - Control, Increases</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual Memory - Control, Decreases</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Auditory Memory - Control, Increases</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Auditory Memory - Control, Decreases</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Double Subtraction, Auditory - Visual</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual - Auditory Memory</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Auditory - Visual Memory</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual - Auditory Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Auditory - Visual Control</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>4020017</id>
+      <colorName>Brown</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Main Effect of Working Memory</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main Effect of Phonological Processing</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>4040029</id>
+      <colorName>Red</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Working Memory, Schizophrenic Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working Memory, Normals</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>4040030</id>
+      <colorName>Blue</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Working Memory Task, Schizophrenic Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working Memory Task, Normals</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>4040044</id>
+      <colorName>Brown</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Schizophrenics &gt; Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbal vs. Spatial, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial vs. Verbal, Normals</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>4040045</id>
+      <colorName>Yellow</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Load, Schizophrenics vs. Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Cerebral Changes in Normals Who Improved On Memory Measures</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>5070080</id>
+      <colorName>Red</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Working Memory, Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working Memory, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Psychomotor, Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Psychomotor, Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working Memory, Normals &gt; Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Psychomotor, Patients &gt; Normals</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>5070090</id>
+      <colorName>Blue</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Working Memory and Spatial Attention</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working Memory</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spatial Attention</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>5070173</id>
+      <colorName>Magenta</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Words vs. Shapes</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Pseudowords vs. Shapes</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Letter Strings vs. Shapes</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>False Fonts vs. Shapes</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Letter Strings vs. Words</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>False Fonts vs. Words</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>5070175</id>
+      <colorName>Orange</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Pseudowords - Color Matching Letters, Group</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Pseudowords - Color Matching Letters, Males</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Pseudowords - Color Matching Letters, Females</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Real Words - Color Matching Letters, Group</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Real Words - Color Matching Letters, Males</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Real Words - Color Matching Letters, Females</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Alternate Case Rhyming - Color Matching Letters, Group</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Alternate Case Rhyming - Color Matching Letters, Males</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Alternate Case Rhyming - Color Matching Letters, Females</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Pseudowords - Real Words, Group</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Pseudowords - Alternate Case Rhyming, Group</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Alternate Case Rhyming - Real Words, Group</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6010002</id>
+      <colorName>Purple</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Non-Target vs. Target, Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Interaction of Cue and Delay, Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Non-Target vs. Target, Nonschizophrenia Psychosis Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Interaction of Cue and Delay, Nonschizophrenia Psychosis Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Non-Target vs. Target, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Long vs. Short Delay, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Non-Target vs. Target, Normals and Nonschizophrenia Psychotics &gt; Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Non-Target vs. Target, Normals &gt; Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Non-Target vs. Target, Normals &gt; Nonschizophrenia Psychotics and Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Long vs. Short Delay, Nonschizophrenia Psychotics and Schizophrenics &gt; Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Interaction of Non-Target Cue and Delay, Schizophrenics &gt; Nonschizophrenia Psychotics and Normals</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6010003</id>
+      <colorName>Yellow</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Main Effect of Scan, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Cue by Scan Interaction, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main Effect of Scan, Schizophrenics</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6060082</id>
+      <colorName>Brown</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Verb Generation</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working Memory</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Emotional Pictures</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6080126</id>
+      <colorName>Black</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back &gt; 0-Back, Pilot Study</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>0-Back &gt; 2-Back, Pilot Study</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. 0-Back, Controls, Pre-Treatment</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>0-Back vs. Rest, Controls, Pre-Treatment</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. 0-Back, Controls, Post-Treatment</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>0-Back vs. Rest, Controls, Post-Treatment</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. 0-Back, Schizophrenics, Pre-Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>0-Back vs. Rest, Schizophrenics, Pre-Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. 0-Back, Schizophrenics, Post-Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>0-Back vs. Rest, Schizophrenics, Post-Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. 0-Back, Controls &gt; Schizophrenics, Pre-Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>0-Back vs. Rest, Schizophrenics &gt; Controls, Pre-Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. 0-Back, Controls &gt; Schizophrenics, Post-Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>0-Back vs. Rest, Schizophrenics &gt; Controls, Post-Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Post-Treatment &gt; Pre-Treatment, 2-Back vs. 0-Back, Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Pre-Treatment vs. Post-Treatment, 0-Back vs. Rest, Schizophrenics</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6080127</id>
+      <colorName>Blue</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Average Group Activation For Controls</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6080128</id>
+      <colorName>Gray</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>N-Back Load Main Effect, Load</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-Back Load Main Effect, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-Back Load Main Effect, Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-Back Group x Load Interaction, Load</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-Back Group x Load Interaction, Group x Load</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-Back Group x Load Interaction, Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>AX-CPT Cue Type Main Effect, Cue Type</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>AX-CPT Cue Type Main Effect, Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>AX-CPT Cue Type Main Effect, Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>AX-CPT Cue Type x Scan Interaction, Cue Type</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>AX-CPT Cue Type x Scan Interaction, Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>AX-CPT Cue Type x Scan Interaction, Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>AX-CPT Group x Cue Type x Scan Interaction, Cue Type</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>AX-CPT Group x Cue Type x Scan Interaction, Group Interaction</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>AX-CPT Group x Cue Type x Scan Interaction, Normals</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6080130</id>
+      <colorName>Blue</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Working Memory, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working Memory, Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Normals &gt; Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Schizophrenics &gt; Normals</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6080135</id>
+      <colorName>Pink</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back vs. Baseline, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. Baseline, Bipolars</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Controls &gt; Bipolars, 2-Back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Bipolars &gt; Controls, 2-Back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sternberg, Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sternberg, Bipolars</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7010007</id>
+      <colorName>Yellow</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>n-Back vs. 0-Back, Healthy Subjects</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>n-Back vs. 0-Back, Depressed Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>n-Back vs. 0-Back, Depressed Patients &gt; Healthy Subjects</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7010025</id>
+      <colorName>Brown</colorName>
+      <shape>Diamond</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Activations, 2-Back vs. 0-Back, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Deactivations, 2-Back vs. 0-Back, Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Activations, 2-Back vs. 0-Back, Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Deactivations, 2-Back vs. 0-Back, Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Schizophrenics &gt; Normals, 2-Back vs. 0-Back</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7020060</id>
+      <colorName>Cyan</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back vs. Fixation, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back Degraded vs. Fixation, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. Fixation, Normals vs. Schizophrenics, Before Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back Degraded vs. Fixation, Normals vs. Schizophrenics, Before Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back Degraded vs. Fixation, Schizophrenics vs. Normals, Before Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. Fixation, Schizophrenics, After Treatment vs. Before Treatment</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back Degraded vs. Fixation, Schizophrenics, After Treatment vs. Before Treatment</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7020064</id>
+      <colorName>Red</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>High-Performing Normals vs. Low-Performing Normals, Working Memory Load</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Low-Performing Schizophrenics vs. High-Performing Schizophrenics, Working Memory Load</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>High-Performing Schizophrenics vs. High-Performing Normals, Working Memory Load</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Low-Performing Schizophrenics vs. Low-Performing Normals, Working Memory Load</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7030088</id>
+      <colorName>Magenta</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back &gt; 0-Back, Sham Depletion</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 0-Back, Acute Tryptophan Depletion</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-Back, Sham Depletion &gt; Acute Tryptophan Depletion</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-Back, Acute Tryptophan Depletion &gt; Sham Depletion</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Letter Fluency &gt; Baseline, Sham Depletion</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Letter Fluency &gt; Baseline, Acute Tryptophan Depletion</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Letter Fluency, Sham Depletion &gt; Acute Tryptophan Depletion</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7070182</id>
+      <colorName>Yellow</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Working Memory vs. Fixation, Autistic Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working Memory vs. Fixation, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working Memory, Controls &gt; Autistic Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working Memory, Autistic Patients &gt; Controls</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7070185</id>
+      <colorName>Green</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back &gt; Match-to-Center, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Match-to-Center &gt; 2-Back, Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Rest, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rest &gt; 2-Back, Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Match-to-Center &gt; Rest, Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rest &gt; Match-to-Center, Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Rest, Alcoholics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rest &gt; 2-Back, Alcoholics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Match-to-Center &gt; Rest, Alcoholics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rest &gt; Match-to-Center, Alcoholics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Match-to-Center vs. Rest, Controls &gt; Alcoholics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Match-to-Center vs. Rest, Alcoholics &gt; Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. Rest, Controls &gt; Alcoholics</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7080214</id>
+      <colorName>Blue</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>1 + 2 + 3-Back vs. 0-Back, OCD Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1 + 2 + 3-Back vs. 0-Back, Normals</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7080235</id>
+      <colorName>Red</colorName>
+      <shape>Diamond</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>1-back &gt; 0-back, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-back &gt; 0-back, Depressed Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back &gt; 0-back, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back &gt; 1-back, Depressed Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back &gt; 1-back, Depressed Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back &gt; 1-back, Depressed Patients &gt; Normals</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7100284</id>
+      <colorName>Blue</colorName>
+      <shape>Diamond</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back vs. 0-Back, Females &gt; Males</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative Olfactory-Induced Emotion, Females &gt; Males</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>[2-Back Negative - 0-Back Negative] vs. [2-Back Neutral - 0-Back Neutral], Males</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>[2-Back Negative - 0-Back Negative] vs. [2-Back Neutral - 0-Back Neutral], Males &gt; Females</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>[2-Back Negative - 0-Back Negative] vs. [2-Back Neutral - 0-Back Neutral], Females &gt; Males</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8010019</id>
+      <colorName>Brown</colorName>
+      <shape>Rotated Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Light Condition Effects During the Performance of the Task, Blue Light &gt; Violet Light</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Light Condition Effects at Light Onset, Blue Light &gt; Green Light</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Light Condition Effects at Light Onset, Violet Light &gt; Green Light</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8010035</id>
+      <colorName>Pink</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Foods &gt; Locations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Locations &gt; Foods</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8030078</id>
+      <colorName>Yellow</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2 Back - 0 Back, Caffeine</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2 Back - 0 Back, Placebo</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8100241</id>
+      <colorName>Purple</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>All 2-back vs. Fixation, Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>All 2-back vs. Fixation, aMCI Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Neutral vs. Positive n-back, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative vs. Neutral n-back, aMCI Patients</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8100252</id>
+      <colorName>Cyan</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back &gt; 0-Back, Traumatic Brain Injury Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 0-Back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-Back &gt; 0-Back, Traumatic Brain Injury Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-Back &gt; 0-Back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Positive Correlation between Brain Activation and 2-Back &gt; 0-Back Performance in TBI Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Positive Correlation between Brain Activation and 3-Back &gt; 0-Back Performance in TBI Patients</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8110281</id>
+      <colorName>Orange</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Own Child vs. Familiar Children</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Familiar Children vs. Unfamiliar Children</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Unfamiliar Children vs. Unfamiliar Adults</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>(Own Child vs. Familiar Children) + (Familiar Children vs. Unfamiliar Children)</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8110297</id>
+      <colorName>Pink</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Tactile, 1-Back vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual, 1-Back vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Tactile Maintenance vs. Rest</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual Maintenance vs. Rest</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Overlapping</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Tactile Maintenance &gt; Visual Maintenance, Interaction</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visual Maintenance &gt; Tactile Maintenance, Interaction</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9030052</id>
+      <colorName>Brown</colorName>
+      <shape>Star</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Visuospatial 2-back - Attention, Bipolar Patients &gt; Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visuospatial 2-back - Attention, Normals &gt; Bipolar Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visuospatial 2-back - Attention, Bipolar Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Visuospatial 2-back - Attention, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative - Neutral Pictures, Bipolar Patients &gt; Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative - Neutral Pictures, Normals &gt; Bipolar Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative - Neutral Pictures, Bipolar Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative - Neutral Pictures, Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Positive - Neutral Pictures, Bipolar Patients &gt; Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Positive - Neutral Pictures, Bipolar Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Positive - Neutral Pictures, Normals</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9090085</id>
+      <colorName>Magenta</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>1-Back &gt; 0-Back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 0-Back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-back &gt; 0-Back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; 0-Back, Healthy Relatives</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 0-Back, Healthy Relatives</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-Back &gt; 0-Back, Healthy Relatives</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; 0-Back, Bipolar Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 0-Back, Bipolar Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-Back &gt; 0-Back, Bipolar Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Healthy Relatives &gt; Healthy Normals, 1-Back + 2-Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Bipolar Patients &gt; Health Controls,  1-Back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Bipolar Patients &gt; Health Controls,  2-Back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Bipolar Patients &gt; Health Controls,  3-Back</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9090092</id>
+      <colorName>Yellow</colorName>
+      <shape>Diamond</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>N-back Main Effect</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Facial Expressions &gt; Scrambled Drawings</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9090112</id>
+      <colorName>Blue</colorName>
+      <shape>Rotated Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>N-back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-back, BD Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Increased Memory Load n-back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Increased Memory Load n-back, BD Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Gambling With Risk &gt; Gambling Without Risk, Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Gambling With Risk &gt; Gambling Without Risk, BD Patients</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9090133</id>
+      <colorName>Yellow</colorName>
+      <shape>Rotated Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Blank 1-back &gt; 0-back, FASD Children (Table 1)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Blank 1-back &gt; 0-back, Healthy Children (Table 1)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-back &gt; 0-back, FASD Children (Table 1)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-back &gt; 0-back, Healthy Children (Table 1)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Blank 1-back &gt; 0-back, FASD Adults (Table 2)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Blank 1-back &gt; 0-back, Healthy Adults (Table 2)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-back &gt; 0-back, FASD Adults (Table 2)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-back &gt; 0-back, Healthy Adults (Table 2)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Blank 1-back &gt; 0-back, FASD Children (Table 3)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Blank 1-back &gt; 0-back, Healthy Children (Table 3)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-back &gt; 0-back, FASD Children (Table 3)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-back &gt; 0-back, Healthy Children (Table 3)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Blank 1-back &gt; 0-back, FASD Adults (Table 4)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Blank 1-back &gt; 0-back, Healthy Adults (Table 4)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-back &gt; 0-back, FASD Adults (Table 4)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-back &gt; 0-back, Healthy Adults (Table 4)</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9090168</id>
+      <colorName>Red</colorName>
+      <shape>Rotated Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>3-Back vs. Fixation, Activations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-Back vs. Fixation, Deactivations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-Back Correlated with Accuracy</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-Back Inverse Correlated with Accuracy</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-Back Correlated with Intelligence</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-Back Inverse Correlated with Intelligence</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-Back Inverse Correlated with Delayed Discounting</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-Back Correlated with Delayed Discounting</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9120184</id>
+      <colorName>Purple</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back &gt;  Fixation, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Mood Induction  &gt;  No Induction, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sadness Induction &gt; Neutral State Induction, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt;  Fixation, Bipolar Disorder</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Mood Induction  &gt;  No Induction, Bipolar Disorder</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sadness Induction &gt; Neutral State Induction, Bipolar Disorder</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Fixation, Bipolar Disorder &gt; Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Mood Induction  &gt;  No Induction, Bipolar Disorder &gt; Healthy Controls</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>10030044</id>
+      <colorName>Orange</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>1-Back &gt; Rest, Alzheimer's Disease</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; Rest, Elderly Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Elderly Normals &gt; Alzheimer's Disease</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Alzheimer's Disease  &gt; Elderly Normals</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>10060118</id>
+      <colorName>Gray</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Healthy Controls &gt; Major Depressive Disorder Patients, Mean Activity</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Major Depressive Disorder Patients &gt; Healthy Controls, Linear Load-Response Activity</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Major Depressive Disorder Patients &gt; Healthy Controls, Quadratic Load-Response Activity</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Interaction Effect of Group x Time, Quadratic Load Response, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Interaction Effect of Group x Time, Quadratic Load Response, Major Depressive Disorder Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Association of Baseline Cerebral Activity with Clinical Response, Mean Activity, MDD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Association of Baseline Cerebral Activity with Clinical Response, Linear-Response Activity, MDD</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>10080200</id>
+      <colorName>Cyan</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>(1, 2, and 3-back) vs. 0-back, Males</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>(1, 2, and 3-back) vs. 0-back, Females</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>11010007</id>
+      <colorName>Black</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back &gt; 0-Back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 0-Back, Relapsing-Remitting Multiple Sclerosis Patients</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>11010009</id>
+      <colorName>Pink</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>1-Back Task vs. 0-Back Task, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back Task vs. 0-Back Task, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back Task vs. 0-Back Task in Turner Syndrome Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back Task vs. 0-Back Task in Turner Syndrome Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Healthy Controls - Turner Syndrome Patients, 2-Back Task</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Healthy Controls - Turner Syndrome Patients, 2-Back Task - 1-Back Task</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Turner Syndrome Patients - Healthy Controls, 1-Back Task</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Turner Syndrome Patients - Healthy Controls, 1-Back Task (IQ as Covariate)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Healthy Controls - Turner Syndrome Patients, 2-Back Task (IQ as Covariate)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Turner Syndrome Patients - Healthy Controls, 2-Back Task (IQ as Covariate)</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>11080061</id>
+      <colorName>Cyan</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>All Words vs. Letter Strings</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>(Complex Noun vs. Simple Noun) vs. (Complex Verb vs. Simple Verb)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verbs (Simple/Complex) vs. Nouns (Simple/Complex)</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>11110097</id>
+      <colorName>Orange</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Rested Wakefulness, 2-Back &gt; 1-Back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rested Wakefulness, 2-Back &gt; 1-Back (Deactivation)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sleep Deprivation Related Increase</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sleep Deprivation Related Decrease</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>State Effect: Sleep Deprivation Related Increase</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>State Effect: Sleep Deprivation Related Decrease</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Load by State Interaction</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>11110099</id>
+      <colorName>Black</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Overall (Correct Responses Across Working Memory Load vs. Rest), Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Overall (Correct Responses Across Working Memory Load vs. Rest), TBI Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Linear Increase (Correct Responses Across Working Memory Load vs. Rest), Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Linear Increase (Correct Responses Across Working Memory Load vs. Rest), TBI Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Healthy Controls &gt; TBI Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>TBI Patients &gt; Healthy Controls</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>11110103</id>
+      <colorName>Green</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Main Effect of Working Memory Load in All Subjects</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; 0-Back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 1-Back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; 0-Back, Mild Traumatic Brain Injury Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 1-Back, Mild Traumatic Brain Injury Patients</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>11110106</id>
+      <colorName>Blue</colorName>
+      <shape>Star</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>TBI Patients &gt; Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Load (Monotonically Increasing)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Group X Load</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Regions Showing Monotonically Increasing Activity in Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Regions Showing Monotonically Increasing Activity in TBI Patients</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>12040037</id>
+      <colorName>Cyan</colorName>
+      <shape>Diamond</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>High-Calorie &gt; Low-Calorie</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>High-Calorie, Hungry &gt; High-Calorie, Satiated, Healthy Control Women</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main Effect Task: 1-Back &gt; Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main Effect Food: Food &gt; Non-Food</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>High-Calorie &gt; Non-Food</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Low-Calorie &gt; Non-Food</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>13070051</id>
+      <colorName>Red</colorName>
+      <shape>Star</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back vs. Baseline, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Baseline vs. 2-Back, Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. Baseline, Depressive Bipolar Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Baseline vs. 2-Back, Depressive Bipolar Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. Baseline, Healthy Controls &gt; Depressive Bipolar Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. Baseline, Depressive Bipolar Patients &gt; Healthy Controls</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>13070053</id>
+      <colorName>Brown</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>1-Back vs. 0-Back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back vs. 0-Back, Psychotic Major Depression Group</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back vs. 0-Back, Nonpsychotic Major Depression Group</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. 0-Back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. 0-Back, Psychotic Major Depression Group</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back vs. 0-Back, Nonpsychotic Major Depression Group</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>13070055</id>
+      <colorName>Purple</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Upright Faces &gt; Fixation, Run 1 (ASD Group)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Upright Faces &gt; Fixation, Run 1 (Healthy Controls)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Upright Faces &gt; Fixation, Run 2 (ASD Group)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Upright Faces &gt; Fixation, Run 2 (Healthy Controls)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Upright Faces &gt; Fixation, Run 1 &gt; Run 2 (ASD Group)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Upright Faces &gt; Fixation, Run 1 &gt; Run 2 (Healthy Controls)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Upright Faces &gt; Fixation, Run 1 &gt; Run 2 (ASD Group, Negative Correlation to ADOS score)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Upright Faces &gt; Fixation, ASD Group &gt; Healthy Controls, Run 2</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Upright Faces &gt; Fixation, Run 1 &gt; Run 2, Healthy Controls &gt; ASD Group</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>13070058</id>
+      <colorName>Gray</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Task &gt; Rest, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Rest &gt; Task, Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Task minus Rest, Depressed &gt; Controls, Inclusive Mask of Activations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Task minus Rest, Depressed &gt; Controls, Inclusive Mask of Deactivations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Task minus Rest, Depressed &gt; Controls, Exclusive Mask</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>14010007</id>
+      <colorName>Green</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Regions in which gF predicted neural activity on lure trials</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>14010014</id>
+      <colorName>Blue</colorName>
+      <shape>Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Faces &gt; Houses, ASD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Faces &gt; Houses, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>House &gt; Faces, ASD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>House &gt; Faces, Control</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>14070153</id>
+      <colorName>Magenta</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-back &gt; 1-back, Control &gt; MTBI</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back &gt; 1-back, MTBI &gt; Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-back &gt; 2-back, Control &gt; MTBI</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>3-back &gt; 2-back, MTBI &gt; Control</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>15010005</id>
+      <colorName>Black</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Face Detection &gt; Control, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Face Detection &gt; Control, Parkinson's Disease Patients Without Hallucinations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Face Detection &gt; Control, Parkinson's Disease Patients With Visual Hallucinations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Parkinson's Patients + Visual Hallucinations &lt; Parkinson's Patients Without Hallucinations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Parkinson's Patients Without Hallucinations &gt; Healthy Controls</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>15120179</id>
+      <colorName>Green</colorName>
+      <shape>Large Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>FM Patients: 2-back - 0-back activation</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Healthy Controls: 2-back - 0-back activation</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Healthy Controls &gt; FM Patients: 2-back - 0-back activation</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>FM Patients: 2-back - 0-back deactivation</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Healthy Controls: 2-back - 0-back deactivation</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>FM Patients: Negative Correlation between fMRI and Beck Depression Inventory (BDI)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>FM Patients: Negative Correlation between fMRI and Beck Anxiety Inventory (BAI)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>FM Patients: Positive Correlation between fMRI and mild pain intensity</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>FM Patients: Positive Correlation between fMRI and moderate pain intensity</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>15120180</id>
+      <colorName>Orange</colorName>
+      <shape>Diamond</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Effect of DRD2 rs1076560 genotype on brain activity during working memory, GT &gt; GG</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Effect of DRD2 rs2283265 genotype on brain activity during working memory, GT &gt; GG</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>15120181</id>
+      <colorName>Cyan</colorName>
+      <shape>Rotated Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Main effect of DRD2 on brain activity during working memory</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main effect of DAT on brain activity during working memory</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Interaction between DAT and DRD2 on brain activity during working memory, corrected</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Interaction between DAT and DRD2 on brain activity during working memory, uncorrected</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main effect of DRD2 on brain activity during encoding</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main effect of DAT on brain activity during encoding</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Interaction between DAT and DRD2 on brain activity during encoding, corrected</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Interaction between DAT and DRD2 during encoding, uncorrected</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>15120182</id>
+      <colorName>Orange</colorName>
+      <shape>Rotated Triangle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Positive correlation between GG Genotype and SPECT factor score</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative correlation between GT Genotype and SPECT factor score</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main Effect of Working Memory Task</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Effect of DRD2 genotype on brain activity during working memory</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>15120183</id>
+      <colorName>Pink</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Effect of DRD2 genotype on brain activity during working memory (2-back vs 0-back)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Effect of HTR2A genotype on brain activity during working memory (2-back vs 0-back)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working memory, Combined effects of rs1076560 and rs6314</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Attentional Control Task, Combined effects of rs1076560 and rs6314</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>16030026</id>
+      <colorName>Red</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Interceptive &gt; Exteroceptive, Control group</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Exteroceptive &gt; Interoceptive, Control group</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Interoceptive &gt; Exteroceptive, Training Group</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Exteroceptive &gt; Interoceptive, Training group</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>16030076</id>
+      <colorName>Blue</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Task Activation (1- and 2-Back, Balanced Drink)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Memory Load (2-Back - 1-Back, Balanced Drink)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>rCBF Increases (TPD Drink)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>rCBF Decreases (TPD Drink)</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>16060152</id>
+      <colorName>Gray</colorName>
+      <shape>Diamond</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Face &gt; House</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>House &gt; Face</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First &gt; Repeated, p &lt; 0.001</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First &gt; Repeated, p &lt; 0.05</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Unfamiliar first (UF) &gt; Unfamiliar repetition (UR), p &lt; 0.001</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>UF &gt; UR, p &lt; 0.002</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>UF &gt; UR, p &lt; 0.003</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>UF &gt; UR, p &lt; 0.05</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Famous first (FF) &gt; Famous repetition (FR), p &lt; 0.001</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>FF &gt; FR, p &lt; 0.05</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>([UF &gt; UR] &gt; [FF &gt; FR])</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>FF &gt; FR, p &lt; 0.02</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>17010005</id>
+      <colorName>Brown</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>ATT_VOWELS vs. Baseline</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>ATT_CIRCLES vs. Baseline</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>ATT_CIRCLES &gt; ATT_VOWELS</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>17040094</id>
+      <colorName>Magenta</colorName>
+      <shape>Diamond</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Tone-counting &gt; Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Tracking &gt; Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back and Tone-counting &gt; Baseline</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back and Tracking &gt; Baseline</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Tone-counting and Tracking &gt; Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>(2-Back and Tone counting) - (2-Back + Tone-counting)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>(2-Back and Tracking) - (2-Back + Tracking)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>(Tone-counting and Tracking) - (Tone-counting + Tracking)</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>17120269</id>
+      <colorName>Yellow</colorName>
+      <shape>Star</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Erotic &gt; Non-Erotic, Healthy Controls, p &lt; 0.001</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Erotic &gt; Non-Erotic, Healthy Controls, p &lt; 0.05</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Erotic &gt; Non-Erotic, Females with Hypoactive Sexual Desire Disorder (HSDD), p &lt; 0.001</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Erotic &gt; Non-Erotic, Females with Hypoactive Sexual Desire Disorder (HSDD), p &lt; 0.05</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Erotic &gt; Non-Erotic, Healthy Controls - Females with HSDD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Erotic &gt; Non-Erotic, Females with HSDD - Healthy Controls</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>19070075</id>
+      <colorName>Black</colorName>
+      <shape>Diamond</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &lt; Baseline, Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Bipolar Disorder Cognitively Preserved</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &lt; Baseline, Bipolar Disorder Cognitively Preserved</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Bipolar Disorder Cognitively Impaired</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &lt; Baseline, Bipolar Disorder Cognitively Impaired</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &lt; Baseline, Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, Bipolar Disorder Cognitively Preserved</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &lt; Baseline, Bipolar Disorder Cognitively Preserved</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, Bipolar Disorder Cognitively Impaired</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &lt; Baseline, Bipolar Disorder Cognitively Impaired</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 1-Back, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &lt; 1-Back, Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 1-Back, Bipolar Disorder Cognitively Preserved</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &lt; 1-Back, Bipolar Disorder Cognitively Preserved</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 1-Back, Bipolar Disorder Cognitively Impaired</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &lt; 1-Back, Bipolar Disorder Cognitively Impaired</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>19070080</id>
+      <colorName>Brown</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &lt; Baseline, Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, Manic Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &lt; Baseline, Manic Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, Healthy Controls &gt; Manic Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, Manic Patients &gt; Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back &gt; Baseline, Manic Patients &gt; Healthy Controls, Sensitivity Covariate</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>19080088</id>
+      <colorName>Purple</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Healthy Controls Session 1 (HC S1)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &lt; Baseline, HC S1</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Healthy Controls Session 2 (HC S2)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &lt; Baseline, HC S2</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Mania</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &lt; Baseline, Mania</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Euthymia</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &lt; Baseline, Euthymia</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Euthymia &gt; HC S2</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Mania &lt; Euthymia</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, ANOVA Time Effect</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 1-Back, Mania &gt; HC S1</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 1-Back, Euthymia &lt; HC S2</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 1-Back, Mania &gt; Euthymia</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; 1-Back, ANOVA Time Effect</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Mania &lt; HC S1</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Mania &gt; HC S1</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Euthymia &gt; HC S2</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Euthymia &gt; Mania</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>ANOVA: Group x Time</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>19080089</id>
+      <colorName>Orange</colorName>
+      <shape>Star</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &lt; Baseline, Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, First Episode Mania</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &lt; Baseline, First Episode Mania</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, First Episode Mania &gt; Healthy Controls</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>19080094</id>
+      <colorName>Pink</colorName>
+      <shape>Diamond</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Baseline &gt; 1-Back, Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Baseline &gt; 2-Back, Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Major Depressive Disorder</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Baseline &gt; 1-Back, Major Depressive Disorder</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, Major Depressive Disorder</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Baseline &gt; 2-Back, Major Depressive Disorder</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>1-Back &gt; Baseline, Bipolar Depressive Disorder</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Baseline &gt; 1-Back, Bipolar Depressive Disorder</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-Back &gt; Baseline, Bipolar Depressive Disorder</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Baseline &gt; 2-Back, Bipolar Depressive Disorder</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Major Depressive Disorder &gt; Healthy Controls, 2-Back &gt; Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Healthy Controls &gt; Major Depressive Disorder, 2-Back &gt; Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Bipolar Depressive Disorder &gt; Healthy Controls, 1-Back &gt; Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Bipolar Depressive Disorder &gt; Healthy Controls, 2-Back &gt; Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Healthy Controls &gt; Bipolar Depressive Disorder, 2-Back &gt; Baseline</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>ANOVA, 2-Back &gt; Baseline</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>20020019</id>
+      <colorName>Red</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Identity &gt; Control, Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Identify &gt; Control, PTSD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Control &gt; Identify, PTSD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-back &gt; Control, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Control &gt; N-back, Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-back &gt; Control, PTSD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Control &gt; N-back, PTSD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Identity task: Trauma &gt; Neutral, Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Identity task: Trauma &gt; Neutral, PTSD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-back task: Trauma &gt; Neutral, PTSD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Identity task: Neutral words, Controls &gt; PTSD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Identity task: Trauma words, Controls &gt; PTSD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>N-back task: Neutral word, Controls &gt; PTSD</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>20040038</id>
+      <colorName>Blue</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Controls: 1-back &gt; 0-back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Controls: 1-back &lt; 0-back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Non-Alcohol Dependent (A-ND): 1-back &gt; 0-back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>A-ND: 1-back &lt; 0-back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Alcohol-Dependent (A-D): 1-back &gt; 0-back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>A-D: 1-back &lt; 0-back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Controls: 2-back &gt; 1-back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Controls: 2-back &lt; 1-back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>A-ND: 2-back &gt; 1-back</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>A-D: 2-back &gt; 1-back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>A-ND &gt; A-D: 2-back &gt; 1-back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>A-D &gt; Controls: 2-back &gt; 1-back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>A-D &gt; Controls: 2-back &gt; 0-back</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>A-ND &gt; Controls: 2-back &gt; 0-back</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>20070057</id>
+      <colorName>Green</colorName>
+      <shape>Large Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Alzheimer's Disease with Mild Cognitive Impairment (AD/MCI) &gt; Healthy Controls (HC)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>HC &gt; AD/MCI</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back &gt; 1-back, HC</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back &gt; 1-back, AD/MCI</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back &gt; 1-back, HC &gt; AD/MCI</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>21030019</id>
+      <colorName>Cyan</colorName>
+      <shape>Star</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>2-back - X-task, ADHD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back - X-task, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back - X-task, Healthy Controls &gt; ADHD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>2-back - X-task, Healthy Controls &gt; ADHD, No LD subjects</name>
+      </simpleExperiment>
+   </simplePaper>
+</workspace>

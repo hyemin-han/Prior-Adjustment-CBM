@@ -1,0 +1,198 @@
+Mask:
+Reference Space               = MNI152
+Dimensions                    = 91x109x91
+Number of within-brain voxels = 262245
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+File of foci coordinates      = face_brainmap.txt
+Number of foci                = 633
+Number of experiments         = 86
+Total number of subjects      = 1174
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = face_brainmap_ALE.nii
+FWHM minimum value            = 9.01191592595652
+FWHM median value             = 9.6586470675157
+FWHM maximum value            = 11.37334466796002
+Minimum ALE score             = 6.3781564E-25
+Maximum ALE score             = 0.045543034
+
+P Values: Eickhoff (HBM, 2009)
+File of P values              = face_brainmap_P.nii
+Minimum P value               = 3.0508067E-13
+
+Thresholding:
+Threshold Method              = Cluster-level Inference
+Thresholding Value            = 0.01
+Thresholding Permutations     = 1000
+Cluster-Forming Method        = Uncorrected P value
+Cluster-Forming Value         = 0.001
+Volume > Threshold            = 19920 mm^3
+Chosen min. cluster size      = 1576 mm^3
+Thresholded ALE image         = face_brainmap_C01_1k_ALE.nii
+
+Cluster Analysis:
+ #1: 6280 mm^3 from (24,-62,-28) to (48,-32,-6) centered at (35.4,-46.7,-17.3) with 3 peaks
+     with a max value of 0.0455 ALE, 3.0508067E-13 P, 7.2 Z at (42,-46,-20) 
+   Labels: (Gray Matter only)
+     Hemisphere: 56.8% Right Cerebellum, 43.2% Right Cerebrum
+     Lobe: 53.5% Anterior Lobe, 22.1% Temporal Lobe, 14% Limbic Lobe, 7.2% Occipital Lobe, 3.3% Posterior Lobe
+     Gyrus: 53.5% Culmen, 28.9% Fusiform Gyrus, 14.3% Parahippocampal Gyrus, 3.3% Declive
+     Cell Type: 22.2% Brodmann area 37, 8.5% Brodmann area 20, 7.7% Brodmann area 36, 4.8% Brodmann area 19
+
+ #2: 5104 mm^3 from (-50,-64,-30) to (-22,-38,-10) centered at (-38.9,-50.6,-20.1) with 2 peaks
+     with a max value of 0.039 ALE, 5.4357057E-11 P, 6.45 Z at (-42,-54,-24) 
+   Labels: (Gray Matter only)
+     Hemisphere: 72.4% Left Cerebellum, 27.6% Left Cerebrum
+     Lobe: 60.4% Anterior Lobe, 22.8% Temporal Lobe, 12% Posterior Lobe, 4.8% Limbic Lobe
+     Gyrus: 60.4% Culmen, 22% Fusiform Gyrus, 11.1% Declive, 4.8% Parahippocampal Gyrus
+     Cell Type: 21.1% Brodmann area 37, 3.9% Brodmann area 20, 2.6% Brodmann area 36
+
+ #3: 2360 mm^3 from (-30,-16,-26) to (-14,6,-12) centered at (-21.7,-5.8,-18.5) with 1 peaks
+     with a max value of 0.032 ALE, 1.04473425E-8 P, 5.6 Z at (-20,-4,-18) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Left Cerebrum
+     Lobe: 90.3% Limbic Lobe, 5.8% Sub-lobar, 3.9% Frontal Lobe
+     Gyrus: 90.3% Parahippocampal Gyrus, 3.9% Subcallosal Gyrus, 1.3% Lentiform Nucleus
+     Cell Type: 63.9% Amygdala, 23.9% Brodmann area 34, 7.1% Brodmann area 28, 3.9% Hippocampus, 1.3% Putamen
+
+ #4: 2272 mm^3 from (36,-82,-20) to (54,-66,2) centered at (44.1,-74.5,-11) with 2 peaks
+     with a max value of 0.0273 ALE, 3.1130114E-7 P, 4.98 Z at (40,-72,-16) 
+   Labels: (Gray Matter only)
+     Hemisphere: 63.2% Right Cerebellum, 36.8% Right Cerebrum
+     Lobe: 63.2% Posterior Lobe, 36.8% Occipital Lobe
+     Gyrus: 63.2% Declive, 23.2% Fusiform Gyrus, 10.4% Inferior Occipital Gyrus, 1.6% Middle Occipital Gyrus, 1.6% Inferior Temporal Gyrus
+     Cell Type: 35.2% Brodmann area 19
+
+ #5: 2160 mm^3 from (18,-14,-26) to (32,4,-12) centered at (24.7,-4.9,-19.8) with 1 peaks
+     with a max value of 0.0351 ALE, 1.1071618E-9 P, 5.98 Z at (24,-6,-20) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Right Cerebrum
+     Lobe: 97.5% Limbic Lobe, 2.5% Sub-lobar
+     Gyrus: 96.3% Parahippocampal Gyrus, 1.3% Uncus
+     Cell Type: 75.6% Amygdala, 18.1% Brodmann area 34, 3.8% Brodmann area 28, 2.5% Hippocampus
+
+ #6: 1744 mm^3 from (30,14,-20) to (46,30,-2) centered at (37.1,21.3,-11.2) with 2 peaks
+     with a max value of 0.0268 ALE, 4.31626E-7 P, 4.92 Z at (40,24,-10) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Right Cerebrum
+     Lobe: 63.9% Sub-lobar, 36.1% Frontal Lobe
+     Gyrus: 31.5% Inferior Frontal Gyrus, 30.6% Insula, 25% Extra-Nuclear, 9.3% Claustrum, 3.7% Sub-Gyral
+     Cell Type: 42.6% Brodmann area 47, 39.8% Brodmann area 13, 2.8% Brodmann area 45
+
+
+Experiment Table:
+[ 2 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 2 1 1 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 1 0 1 1 2 0 1 1 2 0 0 0 2 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 2 1 1 1 1 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 1 2 1 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 1 0 0 0 3 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 2 1 0 ]
+[ 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+
+Contributors to cluster #1
+2 foci from Leveroni C L, 2000: Famous Faces > Newly-learned Faces 
+1 foci from Leveroni C L, 2000: Foils > Newly-learned Faces 
+1 foci from Paller K A, 2003: Face Processing > Nonface Processing 
+1 foci from Yoo S S, 2005: Working Memory, Normals 
+1 foci from Bird G, 2006: Faces > Houses, Normals 
+2 foci from Bird G, 2006: Houses > Faces, Normals 
+1 foci from Bird G, 2006: Attended Faces > Unattended Faces, Normals 
+1 foci from Bird G, 2006: Attended Houses > Unattended Houses, Normals 
+1 foci from Bartels A, 2004: Activations With Maternal Love 
+1 foci from Holt D J, 2006: Fearful vs. Fixation, Normals 
+1 foci from Holt D J, 2006: Happy vs. Fixation, Normals 
+1 foci from Holt D J, 2006: Neutral vs. Fixation, Normals 
+1 foci from Devue C, 2007: Intact Own Face > Scrambled 
+1 foci from Devue C, 2007: Intact Own Body > Scrambled 
+1 foci from Davey C G, 2010: Positive Feedback Faces > Control Feedback Faces 
+1 foci from Bartels A, 2004: Faces > Rest 
+1 foci from Bartels A, 2004: Human Bodies > Rest 
+1 foci from Fairhall S L, 2014: Main effect, Person 
+2 foci from Fairhall S L, 2014: Main effect, Place 
+1 foci from Fairhall S L, 2014: Category x Task, Place 
+1 foci from Fairhall S L, 2014: Picture-cued Semantic Access, Person 
+2 foci from Fairhall S L, 2014: Picture-cued Semantic Access, Place 
+2 foci from Gorno-Tempini M L, 2001: Buildings > Faces 
+1 foci from Pourtois G, 2005: House > Face 
+1 foci from Pourtois G, 2005: UF > UR, p < 0.05 
+1 foci from Pourtois G, 2005: ([UF > UR] > [FF > FR]) 
+
+Contributors to cluster #2
+1 foci from Druzgal T J, 2001: Working Memory Load 
+2 foci from Yoo S S, 2005: Working Memory, Normals 
+1 foci from Bird G, 2006: Faces > Houses, Normals 
+1 foci from Bird G, 2006: Houses > Faces, Normals 
+1 foci from Bird G, 2006: Attended Faces > Unattended Faces, Normals 
+1 foci from Bird G, 2006: Attended Houses > Unattended Houses, Normals 
+1 foci from Bartels A, 2004: Activations With Maternal Love 
+1 foci from Holt D J, 2006: Fearful vs. Fixation, Normals 
+1 foci from Holt D J, 2006: Happy vs. Fixation, Normals 
+1 foci from Holt D J, 2006: Neutral vs. Fixation, Normals 
+1 foci from LoPresti M L, 2008: Active Maintenance Analysis, DMS vs. Number  Discrimination, Delay 
+1 foci from LoPresti M L, 2008: Face Processing Analysis, DMS vs. Number  Discrimination, Stimuli 
+2 foci from Sergerie K, 2010: Correlation, Happy Faces, Controls 
+1 foci from Devue C, 2007: Intact Own Face > Scrambled 
+1 foci from Bartels A, 2004: Color > Rest 
+1 foci from Bartels A, 2004: Faces > Rest 
+1 foci from Bartels A, 2004: Human Bodies > Rest 
+1 foci from Fairhall S L, 2014: Main effect, Person 
+1 foci from Fairhall S L, 2014: Main effect, Place 
+1 foci from Fairhall S L, 2014: Picture-cued Semantic Access, Place 
+3 foci from Gorno-Tempini M L, 2001: Buildings > Faces 
+1 foci from Pourtois G, 2005: Face > House 
+1 foci from Pourtois G, 2005: House > Face 
+
+Contributors to cluster #3
+1 foci from Wright C I, 2002: Emotional vs. Neutral 
+1 foci from Holt D J, 2006: Happy vs. Fixation, Normals 
+1 foci from Holt D J, 2006: Neutral vs. Fixation, Normals 
+1 foci from Holt D J, 2006: First Block Analysis, Happy vs. Fixation, Normals 
+1 foci from LoPresti M L, 2008: Active Maintenance Analysis, DMS vs. Number  Discrimination, Delay 
+1 foci from LoPresti M L, 2008: Face Processing Analysis, DMS vs. Number  Discrimination, Stimuli 
+1 foci from Sergerie K, 2010: Correlation, Happy Faces, Controls 
+1 foci from Davey C G, 2010: Positive Feedback Faces > Control Feedback Faces 
+1 foci from Fairhall S L, 2014: Main effect, Person 
+1 foci from Fairhall S L, 2014: Picture-cued Semantic Access, Person 
+1 foci from Pourtois G, 2005: Face > House 
+1 foci from Pourtois G, 2005: Unfamiliar first (UF) > Unfamiliar repetition (UR), p <  0.001 
+1 foci from Pourtois G, 2005: UF > UR, p < 0.003 
+
+Contributors to cluster #4
+1 foci from Campanella S, 2001: (FF - NN) masked with (FF + NN) - Rest 
+1 foci from Bird G, 2006: Faces > Houses, Normals 
+1 foci from Bird G, 2006: Attended Faces > Unattended Faces, Normals 
+1 foci from Payer D E, 2008: Emotion Match > Shape Match, Normals 
+1 foci from Devue C, 2007: Intact Own Face > Scrambled 
+1 foci from Devue C, 2007: Intact Own Body > Scrambled 
+1 foci from Bartels A, 2004: Human Bodies > Rest 
+1 foci from Fairhall S L, 2014: Main effect, Person 
+1 foci from Fairhall S L, 2014: Picture-cued Semantic Access, Person 
+1 foci from Pourtois G, 2005: Face > House 
+1 foci from Greimel E, 2012: NonRecolHouse > Baseline, Controls 
+2 foci from Greimel E, 2012: RecolFace > Baseline, Controls 
+1 foci from Greimel E, 2012: NonRecolFace > Baseline, Controls 
+
+Contributors to cluster #5
+1 foci from Leveroni C L, 2000: Famous Faces > Foils 
+1 foci from Payer D E, 2008: Emotion Match > Shape Match, Normals 
+1 foci from Holt D J, 2006: Fearful vs. Fixation, Normals 
+1 foci from Holt D J, 2006: Happy vs. Fixation, Normals 
+1 foci from Holt D J, 2006: Neutral vs. Fixation, Normals 
+1 foci from Holt D J, 2006: First Block Analysis, Happy vs. Fixation, Normals 
+1 foci from LoPresti M L, 2008: Face Processing Analysis, DMS vs. Number  Discrimination, Stimuli 
+1 foci from Davey C G, 2010: Positive Feedback Faces > Control Feedback Faces 
+1 foci from Fairhall S L, 2014: Main effect, Person 
+1 foci from Fairhall S L, 2014: Picture-cued Semantic Access, Person 
+1 foci from Pourtois G, 2005: UF > UR, p < 0.002 
+1 foci from Pourtois G, 2005: UF > UR, p < 0.05 
+
+Contributors to cluster #6
+1 foci from Yoo S S, 2005: Working Memory, Normals 
+2 foci from Kikyo H, 2004: Brain Regions Parametrically Modulated by the "Feeling of  Knowing" 
+1 foci from Kikyo H, 2004: Brain Regions Associated with Successful Name Recall from  Face Images 
+1 foci from Saarela M V, 2007: Pain Intensity Ratings Correlated With Activations Due  To Face Stimuli 
+1 foci from LoPresti M L, 2008: Face Processing Analysis, DMS vs. Number  Discrimination, Stimuli 
+1 foci from Devue C, 2007: Intact Own Body > Intact Colleague's Body 
+1 foci from Devue C, 2007: Intact Self > Intact Colleague 

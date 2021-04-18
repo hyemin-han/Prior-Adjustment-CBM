@@ -1,0 +1,898 @@
+// Reference=MNI
+// Leveroni C L, 2000: Famous Faces > Newly-learned Faces
+// Subjects=11
+-14.72	39.74	41.84
+11.78	53.07	19.23
+14.11	47.4	41.98
+-5.56	52.6	-12.88
+53.55	1.54	9.69
+-37.04	21.08	50.35
+35.09	34.61	-15.18
+12.69	22.84	-13.94
+10.45	37.12	-21.8
+-5.6	41.17	-23.07
+-53.48	-11.9	-16.95
+56.52	-6.39	-24.26
+-51.06	-42.96	7.93
+-47.63	-69.15	26.81
+59.11	-52.19	16.36
+35.32	-48.64	-18.24
+47.36	-65.46	10.91
+40.7	5.52	7.27
+33	-15.41	-28.8
+26.84	-44.75	-8.43
+-19.34	-13.36	-25.03
+-2.85	-57.84	17.54
+48.4	-28.39	22.29
+3.68	-56.61	32.98
+-19.78	-91.36	26.12
+12.72	-47.14	-38.18
+-9.71	-47.19	-36.8
+24.57	-6.61	-10.49
+
+// Leveroni C L, 2000: Newly-learned Faces > Famous Faces
+// Subjects=11
+-37.88	-63.32	46.29
+26.17	-65.9	34.61
+39.09	-65.86	47.84
+
+// Leveroni C L, 2000: Famous Faces > Foils
+// Subjects=11
+-15.75	34.61	44.51
+11.88	56.3	33.45
+-1.22	53.31	-4.06
+56.53	-5.16	-22.13
+-54.53	-16.05	-15.48
+-51.92	-63.88	26.42
+-54.29	-44.29	4.73
+48.35	-26.7	16.57
+41.41	9.59	-36.57
+63.4	-49.87	18.35
+26.63	-12.82	-22.26
+-.61	-52.4	32.67
+9.86	-45.76	7.46
+
+// Leveroni C L, 2000: Newly-learned faces > Foils
+// Subjects=11
+-4.88	12.44	59.63
+-37.86	-67.55	46.64
+-3.7	-49.02	49.15
+
+// Leveroni C L, 2000: Foils > Newly-learned Faces
+// Subjects=11
+12.88	46.73	19.75
+19.19	57.8	10.94
+-31.87	6.11	21.44
+32.94	38.83	-15.51
+-31.47	-13.9	65.49
+17.59	0.77	58.12
+35.32	-45.38	-17.4
+
+// Leveroni C L, 2000: Encoding > Newly-learned Faces
+// Subjects=11
+-36.8	-64.28	47.47
+40.15	-68.14	45.79
+
+// Leveroni C L, 2000: Newly-learned Faces > Encoding
+// Subjects=11
+7.5	50.76	17.24
+54.55	7.38	2.49
+23.65	47.74	31.8
+-24.5	52.23	25.29
+29.09	30.05	36.57
+48.37	-64.91	4.17
+57.1	-41.05	36.64
+
+// Paller K A, 2003: Heavy Retrieval > Light Retrieval
+// Subjects=10
+-33	13	4
+-14	-18	-11
+-50	-36	1
+-46	-67	-29
+16	-80	-26
+
+// Paller K A, 2003: Memory > Gender
+// Subjects=10
+39	28	26
+32	23	-1
+1	-25	-13
+17	-66	35
+36	-59	46
+-10	-83	8
+1	-83	8
+-24	-92	-1
+
+// Paller K A, 2003: Face Processing > Nonface Processing
+// Subjects=10
+38	-42	-19
+
+// Wright C I, 2002: Emotional vs. Neutral
+// Subjects=16
+-24	-7	-14
+-27	-26	-16
+-6	38	-23
+-11	55	1
+11	66	-1
+27	13	-37
+
+// Druzgal T J, 2001: Working Memory Load
+// Subjects=9
+34	-4	55
+30	-68	50
+-4	11	45
+-34	-79	35
+-41	-8	35
+-56	0	30
+45	23	25
+30	19	-5
+-34	26	-10
+-49	-64	-15
+-4	-34	-20
+-41	-56	-25
+
+// Phillips M L, 1998: Familiar - Unfamiliar Faces
+// Subjects=8
+63.21	-30.9	2.26
+-50.99	-17.01	26.94
+-33.12	35.03	10.1
+-5.41	55.29	8.09
+
+// Phillips M L, 1998: Happy - Neutral Faces
+// Subjects=8
+-2.27	48.02	-3.61
+16.43	-56.24	22.76
+4.65	-62.03	17.81
+-13.54	-56.85	17.58
+-44.69	-12.63	14.23
+-41.43	-15.35	20
+1	43.18	2.34
+25.79	-12.72	6.74
+29.01	-17.99	7.14
+
+// Campanella S, 2001: (FF - NN) masked with (FF + NN) - Rest
+// Subjects=7
+40	-76	-16
+36	-56	-14
+
+// Campanella S, 2001: NN - FF
+// Subjects=7
+-58	18	0
+
+// Campanella S, 2001: Conjunction of (NN - FF) and (FN - NN)
+// Subjects=7
+-28	34	4
+-44	-46	38
+-34	8	56
+
+// Campanella S, 2001: (NF + FN) - (FF + NN)
+// Subjects=7
+-28	36	6
+-44	-50	32
+-34	8	56
+
+// Yoo S S, 2005: Working Memory, Normals
+// Subjects=10
+4	31	44
+6	14	48
+26	14	38
+48	15	18
+-44	11	31
+30	14	53
+-32	8	51
+12	26	23
+34	-56	42
+-34	-56	51
+24	-91	3
+-18	-97	3
+48	-57	-16
+-40	-51	-14
+24	6	-4
+-22	8	-4
+36	21	-9
+-30	27	-6
+39	-57	-22
+-38	-57	-21
+2	-58	-29
+0	-58	-31
+
+// Bird G, 2006: Faces > Houses, Normals
+// Subjects=16
+44	-50	-20
+46	-74	-10
+-44	-54	-18
+-42	-82	-10
+-50	-70	2
+
+// Bird G, 2006: Houses > Faces, Normals
+// Subjects=16
+28	-46	-10
+28	-52	-8
+2	-82	-6
+20	-56	16
+34	-88	24
+-26	-48	-10
+-30	-90	26
+
+// Bird G, 2006: Attended Faces > Unattended Faces, Normals
+// Subjects=16
+44	-46	-20
+44	-78	-8
+-44	-52	-20
+
+// Bird G, 2006: Attended Houses > Unattended Houses, Normals
+// Subjects=16
+30	-44	-12
+-28	-46	-12
+
+// Payer D E, 2008: Emotion Match > Shape Match, Normals
+// Subjects=12
+-22	-4	18
+44	4	26
+-46	46	-6
+-38	-4	50
+0	28	46
+-8	12	46
+42	-42	24
+50	-74	2
+-28	-68	40
+22	-4	-16
+40	-4	50
+-48	-46	8
+62	-50	14
+
+// Kikyo H, 2004: Brain Regions Parametrically Modulated by the "Feeling of 
+// Knowing"
+// Subjects=15
+-6	15	48
+0	45	30
+-6	36	33
+-33	18	-12
+-54	24	30
+-3	6	63
+-39	6	57
+-42	27	18
+6	24	63
+0	30	39
+-33	30	0
+-42	18	0
+-48	9	42
+-54	24	-3
+-48	30	9
+-45	18	-12
+-42	21	39
+-39	30	-9
+-36	9	39
+-15	15	69
+-12	45	21
+0	18	24
+-27	6	66
+39	24	-9
+33	21	-18
+33	60	21
+48	42	27
+45	42	18
+-57	-42	18
+-60	-24	0
+60	-30	-6
+42	12	-39
+-30	-57	51
+6	-12	33
+-3	-9	33
+-9	9	9
+9	6	12
+-3	-12	12
+15	0	-6
+-12	0	-6
+0	45	30
+0	30	39
+0	18	24
+
+// Kikyo H, 2004: Brain Regions Associated with Successful Name Recall from 
+// Face Images
+// Subjects=15
+-51	24	3
+-6	27	51
+-42	30	18
+-48	36	21
+-51	15	27
+-3	15	57
+-6	33	39
+-45	36	-6
+-54	27	24
+-51	12	39
+39	24	-12
+-6	12	66
+51	45	15
+-42	24	-18
+0	42	30
+12	30	33
+-39	6	45
+-36	9	54
+48	42	27
+-27	18	-9
+-57	-45	9
+-54	-57	-15
+-51	-54	-6
+-51	-36	-9
+-33	-57	51
+-45	-42	39
+0	-51	12
+-3	-57	6
+-3	-6	30
+12	-6	6
+-18	12	-3
+-12	6	9
+-3	-12	6
+0	42	30
+0	-51	12
+
+// Bartels A, 2004: Activations With Maternal Love
+// Subjects=20
+-42	8	-4
+-10	26	30
+-8	44	-6
+-22	2	16
+-30	2	-4
+-28	-14	2
+-18	-18	0
+-52	36	12
+-28	46	-14
+-40	4	30
+-38	-58	-24
+-30	-90	2
+-16	-88	34
+46	12	-6
+10	34	18
+10	44	-6
+14	-2	18
+22	4	0
+20	-18	-10
+28	-20	-2
+2	-32	-24
+14	-22	-14
+54	38	-2
+26	54	-14
+54	2	36
+28	-48	-22
+18	-98	-6
+30	-74	30
+
+// Platek S M, 2006: Unfamiliar > Scrambled Faces
+// Subjects=12
+30	-84	-6
+0	10	48
+24	-34	0
+26	-48	42
+-8	-44	30
+36	-4	56
+
+// Platek S M, 2006: Familiar > Unfamiliar Faces
+// Subjects=12
+42	-6	-14
+-32	18	4
+-20	-58	-36
+50	-46	0
+-50	-38	44
+-40	-2	44
+-34	40	22
+
+// Platek S M, 2006: Self > Unfamiliar Faces
+// Subjects=12
+54	-22	48
+-22	-76	-26
+58	-48	24
+-12	8	-2
+12	8	-2
+16	-28	10
+56	12	-6
+
+// Platek S M, 2006: Familiar > Self Faces
+// Subjects=12
+-2	24	-2
+
+// Platek S M, 2006: Self > Familiar Faces
+// Subjects=12
+-52	4	-16
+26	34	34
+6	48	-12
+50	-62	40
+-58	-6	-4
+20	16	56
+26	-12	46
+
+// Holt D J, 2006: Fearful vs. Fixation, Normals
+// Subjects=16
+-34	-18	-22
+24	-8	-20
+-38	-47	-15
+42	-42	-20
+
+// Holt D J, 2006: Happy vs. Fixation, Normals
+// Subjects=16
+22	-8	-20
+22	-20	-12
+-40	-46	-20
+40	-46	-16
+-24	-12	-16
+
+// Holt D J, 2006: Neutral vs. Fixation, Normals
+// Subjects=16
+-28	-10	-18
+-32	-20	-10
+28	-8	-20
+24	-22	-10
+-40	-44	-20
+38	-38	-17
+
+// Holt D J, 2006: First Block Analysis, Happy vs. Fixation, Normals
+// Subjects=16
+-18	2	-18
+24	0	-18
+
+// Nakamura K, 1998: Attractiveness - Background Color
+// Subjects=6
+18.31	53.17	33.64
+5.05	72.75	-14.69
+4.58	32.79	46.66
+40.43	54.45	-6.87
+52.46	33.14	19.32
+28.66	22.34	-21.88
+43.69	26.46	-11.25
+28.79	-76.28	-44.84
+-20.41	54.77	2.73
+-52.45	36.09	-2.03
+-32.24	-13.06	-33.83
+-50.2	-53.89	-23.51
+-30.72	-101.73	-10.8
+-9.4	-86.8	-12.29
+-7.38	-17.74	-.26
+
+// Nakamura K, 1998: Attractiveness - Emotion
+// Subjects=6
+20.32	69.41	23.33
+22.26	19.13	-21.54
+37.36	10.73	-7.63
+-13.57	46.06	54.68
+-69.54	-11.2	-20.17
+-18.19	29.23	2.61
+-30.92	-64.35	-22.85
+-22.36	-81.73	-28.18
+
+// Saarela M V, 2007: Provoked - Chronic Pain
+// Subjects=12
+-41.68	20.55	2.49
+46.97	24.96	-3.36
+-5.14	25.1	30.69
+3.65	12.32	57.31
+-58.32	-47.29	35.14
+-49.8	-1.46	49.04
+
+// Saarela M V, 2007: Pain Intensity Ratings Correlated With Activations Due 
+// To Face Stimuli
+// Subjects=12
+-60.44	-58.13	32.73
+40.52	19.04	-10.59
+-8.28	29.11	41.54
+-38.57	13.02	-12.52
+
+// Keightley M L, 2007: Happy > Other Faces, Young Adults
+// Subjects=10
+12	32	-16
+28	44	20
+32	56	8
+-24	40	44
+0	68	4
+-4	-4	56
+8	24	-12
+28	8	0
+24	-72	8
+-28	-88	28
+-4	-52	36
+20	-72	24
+-20	-72	-12
+60	-32	32
+-60	-24	32
+60	4	-4
+-48	-20	4
+-16	-44	36
+
+// Keightley M L, 2007: Happy + Disgust > Other Faces, Older Adults
+// Subjects=11
+4	52	-4
+4	-60	-4
+56	-8	28
+-60	0	12
+
+// LoPresti M L, 2008: Active Maintenance Analysis, DMS vs. Number 
+// Discrimination, Delay
+// Subjects=19
+-46	26	-6
+-40	56	14
+-44	30	8
+-26	32	8
+54	6	46
+-40	2	32
+0	20	48
+-18	-16	-20
+-18	-4	-20
+-32	-30	-8
+34	-46	-4
+-50	-50	52
+-42	-54	-28
+-2	-82	-30
+
+// LoPresti M L, 2008: Face Processing Analysis, DMS vs. Number 
+// Discrimination, Stimuli
+// Subjects=19
+50	-74	-14
+58	-62	-10
+28	-82	18
+24	-80	-14
+50	-36	0
+-40	-74	-14
+-40	-60	-18
+-52	-46	4
+40	30	-8
+50	38	6
+34	28	2
+-50	22	-6
+-46	16	22
+-32	26	0
+2	30	44
+10	20	36
+6	38	18
+-16	-36	-6
+16	-36	-6
+-18	-4	-16
+20	2	-20
+-36	-52	42
+40	-52	48
+0	-52	-44
+-6	-80	-38
+
+// Sergerie K, 2010: Correlation, Happy Faces, Controls
+// Subjects=20
+-26	62	16
+-4	26	60
+54	32	20
+-36	0	46
+56	22	20
+-32	22	-16
+-32	4	32
+-28	-22	24
+-30	-60	54
+48	-40	36
+52	0	-20
+-54	-4	-18
+-64	-36	-2
+-54	-70	8
+48	-8	-22
+62	-14	-22
+-48	-54	-16
+-40	-60	-18
+-30	-16	-34
+10	-54	26
+-54	-70	-8
+-38	-84	-10
+-28	-14	-24
+-28	0	-26
+
+// Devue C, 2007: Intact Own Face > Scrambled
+// Subjects=28
+-42	-54	-26
+-46	-80	-14
+40	-80	-16
+42	-52	-22
+42	34	6
+44	24	0
+46	8	44
+40	-2	52
+10	16	50
+6	6	62
+
+// Devue C, 2007: Intact Own Body > Scrambled
+// Subjects=28
+-40	-72	-6
+-48	-76	2
+-44	-68	-20
+46	-78	-2
+40	-54	-22
+
+// Devue C, 2007: Intact Faces > Intact Bodies
+// Subjects=28
+8	26	-16
+
+// Devue C, 2007: Intact Own Face > Intact Colleague's Face
+// Subjects=28
+38	22	16
+48	32	14
+
+// Devue C, 2007: Intact Own Body > Intact Colleague's Body
+// Subjects=28
+26	52	2
+32	18	-16
+12	26	32
+-36	36	16
+-36	12	-14
+
+// Devue C, 2007: Intact Self > Intact Colleague
+// Subjects=28
+8	32	26
+32	14	-12
+
+// Davey C G, 2010: Positive Feedback Faces > Control Feedback Faces
+// Subjects=19
+0	60	-4
+-4	68	10
+8	36	4
+2	-10	22
+0	-32	28
+-6	-46	14
+2	-66	20
+-24	42	40
+-24	28	48
+-22	44	26
+-62	-10	-22
+-42	-60	44
+-22	-78	-20
+-18	-100	0
+22	60	26
+38	14	-18
+64	-12	-24
+16	-96	-2
+4	6	-4
+-24	-10	-24
+30	-8	-22
+0	-20	-18
+26	-48	-24
+
+// Ramirez-Ruiz B, 2008: Face Detection > Control, Healthy Controls
+// Subjects=10
+-10	45	0
+48	-61	25
+-49	-57	16
+44	-67	-12
+
+// Bartels A, 2004: Color > Rest
+// Subjects=5
+-32	-70	-10
+26	-74	-10
+-36	-44	-22
+24	-54	-14
+
+// Bartels A, 2004: Faces > Rest
+// Subjects=5
+-44	-46	-24
+44	-46	-26
+-58	-58	16
+56	-62	12
+
+// Bartels A, 2004: Language > Rest
+// Subjects=5
+-66	-26	4
+64	-24	0
+-60	-12	-2
+60	-2	-8
+
+// Bartels A, 2004: Human Bodies > Rest
+// Subjects=5
+-44	-82	4
+50	-74	2
+-44	-46	-22
+40	-44	-22
+
+// Fairhall S L, 2014: Main effect, Person
+// Subjects=16
+42	-46	-23
+-42	-46	-26
+48	-58	16
+51	-76	-5
+3	-58	34
+-51	-46	13
+60	-4	-26
+21	-7	-17
+-21	-4	-17
+
+// Fairhall S L, 2014: Main effect, Place
+// Subjects=16
+30	-43	-11
+30	-61	-8
+39	-82	19
+18	-55	13
+-33	-88	19
+-27	-64	-8
+-27	-43	-17
+-15	-58	10
+
+// Fairhall S L, 2014: Category x Task, Person
+// Subjects=16
+6	-58	40
+
+// Fairhall S L, 2014: Category x Task, Place
+// Subjects=16
+30	-34	-17
+36	-79	37
+18	-55	22
+-30	-85	37
+
+// Fairhall S L, 2014: Picture-cued Semantic Access, Person
+// Subjects=17
+45	-55	19
+3	-49	28
+3	53	-14
+24	-1	-23
+45	-46	-23
+42	-79	-14
+-42	-82	-14
+-24	-4	-20
+51	-7	-26
+
+// Fairhall S L, 2014: Picture-cued Semantic Access, Place
+// Subjects=17
+30	-43	-11
+30	-61	-8
+39	-82	19
+18	-55	13
+-33	-88	19
+-27	-64	-8
+-27	-43	-17
+-15	-58	10
+
+// Fairhall S L, 2014: Word-cued Semantic Access, Person
+// Subjects=17
+3	-49	28
+3	53	-14
+
+// Fairhall S L, 2014: Word-cued Semantic Access, Place
+// Subjects=17
+-39	-79	34
+-27	-32	-20
+-15	-55	16
+30	-31	-20
+18	-52	16
+
+// Gorno-Tempini M L, 2001: Faces > Buildings
+// Subjects=15
+52.79	-51.7	-25.02
+
+// Gorno-Tempini M L, 2001: Buildings > Faces
+// Subjects=15
+-27.06	-46.89	-15.17
+-27.14	-40.93	-20.24
+-35.66	-50.97	-12.38
+31.32	-50.73	-13.55
+33.39	-42.63	-18.87
+
+// Gorno-Tempini M L, 2001: FF-NFF + FB-NFB
+// Subjects=15
+69.96	0.04	-23.71
+
+// Gorno-Tempini M L, 2001: FF-NFF > FB-NFB
+// Subjects=15
+67.84	-1.89	-21.24
+
+// Pourtois G, 2005: Face > House
+// Subjects=13
+-21	-15	-12
+48	-57	-33
+-45	-51	-27
+54	-72	-3
+-54	-72	15
+51	-54	6
+
+// Pourtois G, 2005: House > Face
+// Subjects=13
+-21	-42	-15
+27	-42	-18
+-24	-75	-12
+24	-66	-12
+
+// Pourtois G, 2005: First > Repeated, p < 0.001
+// Subjects=13
+-24	-18	-6
+-57	-12	-18
+
+// Pourtois G, 2005: First > Repeated, p < 0.05
+// Subjects=13
+-45	27	18
+-42	6	12
+-9	-36	21
+33	-18	-24
+60	-3	-18
+27	12	-39
+
+// Pourtois G, 2005: Unfamiliar first (UF) > Unfamiliar repetition (UR), p < 
+// 0.001
+// Subjects=13
+9	-96	9
+24	93	12
+15	-36	-15
+-51	-69	9
+-9	-60	-3
+-18	3	-18
+24	-30	-15
+-12	-57	-6
+-45	3	12
+
+// Pourtois G, 2005: UF > UR, p < 0.002
+// Subjects=13
+30	0	-24
+
+// Pourtois G, 2005: UF > UR, p < 0.003
+// Subjects=13
+-18	6	-21
+
+// Pourtois G, 2005: UF > UR, p < 0.05
+// Subjects=13
+30	-48	-18
+6	-36	18
+27	3	-24
+-45	3	12
+
+// Pourtois G, 2005: Famous first (FF) > Famous repetition (FR), p < 0.001
+// Subjects=13
+-60	-24	-9
+
+// Pourtois G, 2005: FF > FR, p < 0.05
+// Subjects=13
+-45	24	18
+
+// Pourtois G, 2005: ([UF > UR] > [FF > FR])
+// Subjects=13
+33	-51	-15
+
+// Pourtois G, 2005: FF > FR, p < 0.02
+// Subjects=13
+-45	27	18
+
+// Greimel E, 2012: RecolHouse > Baseline, Controls
+// Subjects=13
+58	22	28
+50	44	18
+-6	14	38
+0	6	56
+46	10	32
+-54	-18	22
+34	-88	-10
+-32	-92	0
+
+// Greimel E, 2012: NonRecolHouse > Baseline, Controls
+// Subjects=13
+-38	32	22
+48	44	22
+-46	30	32
+40	-70	-18
+-32	-92	0
+32	-90	-10
+
+// Greimel E, 2012: RecolFace > Baseline, Controls
+// Subjects=13
+58	22	28
+50	44	18
+2	24	36
+-8	8	40
+-2	4	58
+52	12	38
+40	-70	-16
+-40	-74	-14
+32	-90	-10
+32	52	30
+-34	48	18
+40	-70	-16
+-40	-74	-14
+-22	-64	32
+34	-88	-10
+
+// Greimel E, 2012: NonRecolFace > Baseline, Controls
+// Subjects=13
+32	52	30
+-34	48	18
+40	-70	-16
+-40	-74	-14
+-22	-64	32
+34	-88	-10
+
+// Clark V P, 1997: Color Attention > Monochrome Scrambled Faces
+// Subjects=6
+21.6	-72.25	-5.73
+

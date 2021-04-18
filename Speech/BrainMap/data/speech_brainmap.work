@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE workspace SYSTEM "http://www.brainmap.org/DTDs/Workspace-1.1.dtd">
+<workspace>
+
+   <color>
+      <colorName>Black</colorName>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Red</colorName>
+      <r>255</r>
+      <g>0</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Green</colorName>
+      <r>0</r>
+      <g>220</g>
+      <b>50</b>
+   </color>
+   <color>
+      <colorName>Blue</colorName>
+      <r>0</r>
+      <g>0</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Gray</colorName>
+      <r>128</r>
+      <g>128</g>
+      <b>128</b>
+   </color>
+   <color>
+      <colorName>Brown</colorName>
+      <r>150</r>
+      <g>100</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Purple</colorName>
+      <r>180</r>
+      <g>100</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Cyan</colorName>
+      <r>0</r>
+      <g>230</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Magenta</colorName>
+      <r>255</r>
+      <g>0</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Orange</colorName>
+      <r>255</r>
+      <g>200</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Pink</colorName>
+      <r>255</r>
+      <g>175</g>
+      <b>225</b>
+   </color>
+   <color>
+      <colorName>Yellow</colorName>
+      <r>240</r>
+      <g>240</g>
+      <b>0</b>
+   </color>
+
+   <database>
+      <functional/>
+   </database>
+
+   <simplePaper>
+      <id>30037</id>
+      <colorName>Black</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Verb Generation minus Word Repetition (Chinese words)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Verb Generation minus Word Repetition (English words)</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30151</id>
+      <colorName>Red</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Lip Pursing vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>/pa/ vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Tip of Tongue vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>/ta/ vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>/ka/ vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>/pataka/ vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30241</id>
+      <colorName>Green</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Read Words Silently - Words Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Read Words Aloud - Words Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Name Objects Silently - Objects Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Name Objects Aloud - Objects Control</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Words Control - Read Words Silently</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Words Control - Read Words Aloud</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Objects Control - Name Objects Silently</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Objects Control - Name Objects Aloud</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30311</id>
+      <colorName>Blue</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Positive syllable rate correlates, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Positive syllable rate correlates, Stutterers</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Positive stutter rate correlates, Stutterers</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative stutter rate correlates, Stutterers</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30364</id>
+      <colorName>Gray</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Naming + Vocalization &gt; Counting + Rest, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Naming &gt; Vocalization + Counting + Rest, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Counting &gt; Vocalization + Naming + Rest, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Naming + Vocalization &gt; Counting + Rest, Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Naming &gt; Vocalization + Counting + Rest, Patients</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7020056</id>
+      <colorName>Brown</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Syllable Generation vs. Rest, ASSIST</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sentence Construction vs. Rest, ASSIST</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sentence Construction vs. Syllable Generation, ASSIST</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Syllable Generation vs. Rest, BOLD</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sentence Construction vs. Rest, BOLD</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sentence Construction vs. Syllable Generation, BOLD</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7020058</id>
+      <colorName>Purple</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Natural Female &gt; Natural Male</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Low Pitch &gt; High Pitch</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>High Pitch &gt; Low Pitch</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Male Voices &gt; Females Voices</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Female Voices &gt; Male Voices</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Odd Voices &gt; Natural Voices</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7030084</id>
+      <colorName>Cyan</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Word Presentation &gt; Rest, Females</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Word Presentation &gt; Rest, Males</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Incongruous &gt; Congruous Presentations, Females</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Incongruous &gt; Congruous Presentations, All Subjects</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7040101</id>
+      <colorName>Magenta</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>SI Task Activations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>EI Task Activations</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7040104</id>
+      <colorName>Orange</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Laughter &gt; Speech</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Speech &gt; Laughter</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Laughter &gt; Sounds</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sounds &gt; Laughter</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Laughter vs. Sounds and Speech vs. Sounds</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7040111</id>
+      <colorName>Pink</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Passive Speech Listening (UFV - GT)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Voice Familiarity Processing (FV - UFV)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Intelligible Speech (UFV - RTV)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Self-Other Distinction (UFV - SGV)</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7100276</id>
+      <colorName>Yellow</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Simple - Fixation</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Medium - Simple</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Complex - Medium</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7100283</id>
+      <colorName>Black</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Category - Auditory, Tones</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Category - Auditory, Tonal Contours</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Category - Auditory, Vowels</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Category - Auditory, Syllables</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7100292</id>
+      <colorName>Magenta</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Speech Pauses &gt; Fluent Speech</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Fluent Speech &gt; Speech Pauses</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Pauses at Grammatical Junctions &gt; Fluent Speech</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Pauses within Clauses &gt; Fluent Speech</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7110355</id>
+      <colorName>Yellow</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Spontaneous Singing &gt; Synchronized Singing</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Synchronized Singing &gt; Spontaneous Singing</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spontaneous Speaking &gt; Synchronized Speaking</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Synchronized Speaking &gt; Spontaneous Speaking</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spontaneous Singing &gt; Spontaneous Speaking</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Synchronized Singing &gt; Synchronized Speaking</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8020068</id>
+      <colorName>Blue</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Glottal Stops &gt; Fixation</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Phonation &gt; Fixation</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Lips &gt; Fixation</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Tongue Movement &gt; Fixation</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8030087</id>
+      <colorName>Cyan</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Face Movement Open vs. Closed, Hearing Subjects</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Discrimination vs. Non Discrimination, Deaf Subjects</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Discrimination vs. Non Discrimination, Hearing Signers</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Discrimination vs. Non Discrimination, Deaf Subjects &gt; Hearing Signers</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8080183</id>
+      <colorName>Pink</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Sentence Generation - Word Reading</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sentence Generation - Sentence Reading</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9080084</id>
+      <colorName>Gray</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Voiced and Voiceless Consonants &gt; Spectrally Rotated Analogues</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Voiced Consonants &gt; Voiceless Consonants</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Spectrally Rotated Analogues &gt; Voiced and Voiceless Consonants</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Correlation with Spectral Peak of Consonantal Burst</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9090113</id>
+      <colorName>Orange</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Self Undistorted &gt; Self Distorted Feedback</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Self Distorted &gt; Self Undistorted Feedback</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Self Undistorted &gt; Alien Undistorted Feedback</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Alien Undistorted &gt; Self Undistorted Feedback</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Self Distorted &gt; Alien Undistorted Feedback</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Alien Undistorted &gt; Self Distorted Feedback</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Self Undistorted Feedback&gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Self Distorted Feedback&gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Alien Undistorted Feedback &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Alien Distorted Feedback &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Self Distorted Correct Responses &gt; Self Distorted Misattribution Responses</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9090131</id>
+      <colorName>Black</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>(Idioms + Rearranged Idioms + Time Reversed Idioms) vs. Fixation</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>(Idioms + Rearranged Idioms) - Time Reversed Idioms</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>10070133</id>
+      <colorName>Red</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Tones vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sounds vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Words vs. Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sounds vs. Tones</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Words vs. Tones</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Words vs. Sounds</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>12020015</id>
+      <colorName>Brown</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>(All Regulars - Baseline) - (All Irregulars - Baseline)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>(Real Regulars - Baseline) - (Real Irregulars - Baseline)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>(Regulars - Baseline) - (Additional Phonemes - Baseline)</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>14050050</id>
+      <colorName>Purple</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Noise &gt; Clear</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Clear &gt; Noise</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Accent &gt; Clear</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Clear &gt; Accent</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Noise &gt; Accent</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Accent &gt; Noise</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Clear &lt; [Noise + Accent]</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>[Noise + Accent] &lt; Clear</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>14050067</id>
+      <colorName>Magenta</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Manipulation (2 target -1 target) vs Storage (2 target -1 target) during delay</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Manipulation (2 target -1 target) vs Storage (2 target -1 target) during delay, Deactivations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Manipulation (2 target - 1 target) vs Storage (2 target - 1 target) during encoding</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Manipulation (2 target - 1 target) vs Storage (2 target - 1 target) during encoding, Deactivations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Negative correlation between BOLD and accuracy scores during 2 target manipulation</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>15060051</id>
+      <colorName>Pink</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Verbal Fluency</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Confrontation Naming</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Significant Correlation during Confrontation Naming, Age</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Significant Correlation during Confrontation Naming, Task Performance</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>16010003</id>
+      <colorName>Black</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Repetitive Vocalization &gt; Continuous Vocalization</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Vocalization &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Exhalation &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Vocalization &gt; Exhalation</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>16010015</id>
+      <colorName>Green</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>First Presentation &gt; Fourth Presentation</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Fourth Presentation &gt; First Presentation</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First Presentation &gt; Second Presentation</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Regions Displaying Linear Habituation, All 4 Presentations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First Presentation vs. Second + Third + Fourth Presentations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main Effect of Sentence Repetition</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Asymmetries in the Main Effect of Sentence Repetition</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Effect of Sentence Repetition Restricted to Same Speaker Condition</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Asymmetries in the Effect of Sentence Repetition Restricted to Same Speaker Condition</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Effect of Sentence Repetition Restricted to Different Speaker Condition</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Asymmetries in the Effect of Sentence Repetition Restricted to Different Speaker Condition</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Asymmetric First Sentence Activations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main Effect of Speaker Repetition</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Interaction Between Sentence and Speaker Repetition</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>16040090</id>
+      <colorName>Blue</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Correct-Intelligible &gt; Correct-Rotated</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Incorrect-Intelligible &gt; Correct Intelligible</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>18080071</id>
+      <colorName>Cyan</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Human vocalizations + music &gt; Non-vocal sounds</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Human vocalizations + music &gt; Monkey vocalizations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Music &gt; Human vocalizations</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Human vocalizations &gt; Music</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Speech &gt; Music</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Music &gt; Non-linguistic</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Violin &gt; Speech</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Speech &gt; Violin</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Music &gt; Human|musicians &gt; Non-musicians</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>20090154</id>
+      <colorName>Gray</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>All Sound - Silence Baseline, Autism Spectrum-Speech Onset Delay (AS-SOD)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>All Sound - Silence Baseline, Autism Spectrum-No Speech Onset Delay (AS-NoSOD)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>All Sound - Silence Baseline, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>All Sound - Silence Baseline, Healthy Controls &gt; AS-SOD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>All Sound - Silence Baseline, AS-SOD &gt; Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>All Sound - Silence Baseline, Healthy Controls &gt; AS-NoSOD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>All Sound - Silence Baseline, AS-NoSOD &gt; Healthy Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>All Sound - Silence Baseline, AS-SOD &gt; AS-NoSOD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>All Sound - Silence Baseline, AS-NoSOD &gt; AS-SOD</name>
+      </simpleExperiment>
+   </simplePaper>
+</workspace>

@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE workspace SYSTEM "http://www.brainmap.org/DTDs/Workspace-1.1.dtd">
+<workspace>
+
+   <color>
+      <colorName>Black</colorName>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Red</colorName>
+      <r>255</r>
+      <g>0</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Green</colorName>
+      <r>0</r>
+      <g>220</g>
+      <b>50</b>
+   </color>
+   <color>
+      <colorName>Blue</colorName>
+      <r>0</r>
+      <g>0</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Gray</colorName>
+      <r>128</r>
+      <g>128</g>
+      <b>128</b>
+   </color>
+   <color>
+      <colorName>Brown</colorName>
+      <r>150</r>
+      <g>100</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Purple</colorName>
+      <r>180</r>
+      <g>100</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Cyan</colorName>
+      <r>0</r>
+      <g>230</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Magenta</colorName>
+      <r>255</r>
+      <g>0</g>
+      <b>255</b>
+   </color>
+   <color>
+      <colorName>Orange</colorName>
+      <r>255</r>
+      <g>200</g>
+      <b>0</b>
+   </color>
+   <color>
+      <colorName>Pink</colorName>
+      <r>255</r>
+      <g>175</g>
+      <b>225</b>
+   </color>
+   <color>
+      <colorName>Yellow</colorName>
+      <r>240</r>
+      <g>240</g>
+      <b>0</b>
+   </color>
+
+   <database>
+      <functional/>
+   </database>
+
+   <simplePaper>
+      <id>30043</id>
+      <colorName>Black</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Famous Faces &gt; Newly-learned Faces</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Newly-learned Faces &gt; Famous Faces</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Famous Faces &gt; Foils</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Newly-learned faces &gt; Foils</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Foils &gt; Newly-learned Faces</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Encoding &gt; Newly-learned Faces</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Newly-learned Faces &gt; Encoding</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30330</id>
+      <colorName>Red</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Heavy Retrieval &gt; Light Retrieval</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Memory &gt; Gender</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Gender &gt; Memory</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Face Processing &gt; Nonface Processing</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30338</id>
+      <colorName>Green</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Emotional vs. Neutral</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30381</id>
+      <colorName>Blue</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Working Memory Load</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>30408</id>
+      <colorName>Gray</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Familiar - Unfamiliar Faces</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Unfamiliar - Familiar Faces</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Happy - Neutral Faces</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Neutral - Happy Faces</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Neutral - Sad Faces</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6060096</id>
+      <colorName>Brown</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>(FF - NN) masked with (FF + NN) - Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>NN - FF</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Conjunction of (NN - FF) and (FN - NN)</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>(NF + FN) - (FF + NN)</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>6080130</id>
+      <colorName>Purple</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Working Memory, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Working Memory, Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Normals &gt; Schizophrenics</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Schizophrenics &gt; Normals</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>7040091</id>
+      <colorName>Cyan</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Faces &gt; Houses, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Faces &gt; Houses, Autism Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Houses &gt; Faces, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Houses &gt; Faces, Autism Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Attended Faces &gt; Unattended Faces, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Attended Houses &gt; Unattended Houses, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Attended Houses &gt; Unattended Houses, Autism Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Attended Faces &gt; Unattended Faces, Normals &gt; Autism Patients</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8020057</id>
+      <colorName>Magenta</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Emotion Match &gt; Shape Match, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Emotion Match &gt; Shape Match, MA-Dependent Subjects</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Emotion Match &gt; Shape Match, Normals &gt; MA-Dependent Subjects</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Emotion Match &gt; Shape Match, MA-Dependent Subjects &gt; Normals</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8020067</id>
+      <colorName>Orange</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Brain Regions Parametrically Modulated by the "Feeling of Knowing"</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Brain Regions Associated with Successful Name Recall from Face Images</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8080167</id>
+      <colorName>Pink</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Activations With Maternal Love</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Deactivations With Maternal Love</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8080232</id>
+      <colorName>Yellow</colorName>
+      <shape>Small Circle</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Unfamiliar &gt; Scrambled Faces</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Familiar &gt; Unfamiliar Faces</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Self &gt; Unfamiliar Faces</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Familiar &gt; Self Faces</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Self &gt; Familiar Faces</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8110270</id>
+      <colorName>Green</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Fearful vs. Fixation, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Fearful vs. Fixation, Schizophrenia</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Fearful vs. Fixation, Schizophrenia &gt; Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Happy vs. Fixation, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Happy vs. Fixation, Schizophrenia</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Happy vs. Fixation, Schizophrenia &gt; Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Neutral vs. Fixation, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Neutral vs. Fixation, Schizophrenia</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Neutral vs. Fixation, Schizophrenia &gt; Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First Block Analysis, Fearful vs. Fixation, Schizophrenia</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First Block Analysis, Fearful vs. Fixation, Schizophrenia &gt; Normals</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First Block Analysis, Happy vs. Fixation, Normals</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First Block Analysis, Happy vs. Fixation, Schizophrenia</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First Block Analysis, Neutral vs. Fixation, Schizophrenia</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First Block Analysis, Neutral vs. Fixation, Schizophrenia &gt; Normals</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8110290</id>
+      <colorName>Blue</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Attractiveness - Background Color</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Attractiveness - Emotion</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>8110299</id>
+      <colorName>Orange</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Provoked - Chronic Pain</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Pain Intensity Ratings Correlated With Activations Due To Face Stimuli</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9020042</id>
+      <colorName>Pink</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Happy &gt; Other Faces, Young Adults</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Other Faces &gt; Happy, Young Adults</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Happy + Disgust &gt; Other Faces, Older Adults</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Other Faces &gt; Happy + Disgust, Older Adults</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9090132</id>
+      <colorName>Blue</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Active Maintenance Analysis, DMS vs. Number Discrimination, Delay</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Face Processing Analysis, DMS vs. Number Discrimination, Stimuli</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>9090151</id>
+      <colorName>Red</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Happy Faces, Conjunction Analysis, Patients + Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sad Faces, Conjunction Analysis, Patients + Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Happy Faces, Controls &gt; Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Correlation, Happy Faces, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Correlation, Happy Faces, Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Happy Faces, Patients &gt; Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Correlation, Happy Faces, Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Correlation, Happy Faces, Patients</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Sad Faces, Patients &gt; Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Correlation, Sad Faces, Controls</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Correlation, Sad Faces, Patients</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>10030025</id>
+      <colorName>Brown</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Intact Own Face &gt; Scrambled</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Intact Own Body &gt; Scrambled</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Intact Faces &gt; Intact Bodies</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Intact Bodies &gt; Intact Faces</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Intact Own Face &gt; Intact Colleague's Face</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Intact Colleague's Face &gt; Intact Own Face</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Intact Own Body &gt; Intact Colleague's Body</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Intact Colleague's Body &gt; Intact Own Body</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Intact Self &gt; Intact Colleague</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>11010005</id>
+      <colorName>Purple</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Positive Feedback Faces &gt; Control Feedback Faces</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>15010005</id>
+      <colorName>Magenta</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Face Detection &gt; Control, Healthy Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Face Detection &gt; Control, Parkinson's Disease Patients Without Hallucinations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Face Detection &gt; Control, Parkinson's Disease Patients With Visual Hallucinations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Parkinson's Patients + Visual Hallucinations &lt; Parkinson's Patients Without Hallucinations</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Parkinson's Patients Without Hallucinations &gt; Healthy Controls</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>15070097</id>
+      <colorName>Orange</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Color &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Faces &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Language &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Human Bodies &gt; Rest</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>16010016</id>
+      <colorName>Blue</colorName>
+      <shape>Rotated Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Main effect, Person</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Main effect, Place</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Category x Task, Person</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Category x Task, Place</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Picture-cued Semantic Access, Person</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Picture-cued Semantic Access, Place</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Word-cued Semantic Access, Person</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Word-cued Semantic Access, Place</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>16010017</id>
+      <colorName>Gray</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Faces &gt; Buildings</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Buildings &gt; Faces</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>FF-NFF + FB-NFB</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>FF-NFF &gt; FB-NFB</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>16060152</id>
+      <colorName>Purple</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Face &gt; House</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>House &gt; Face</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First &gt; Repeated, p &lt; 0.001</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>First &gt; Repeated, p &lt; 0.05</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Unfamiliar first (UF) &gt; Unfamiliar repetition (UR), p &lt; 0.001</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>UF &gt; UR, p &lt; 0.002</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>UF &gt; UR, p &lt; 0.003</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>UF &gt; UR, p &lt; 0.05</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>Famous first (FF) &gt; Famous repetition (FR), p &lt; 0.001</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>FF &gt; FR, p &lt; 0.05</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>([UF &gt; UR] &gt; [FF &gt; FR])</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>FF &gt; FR, p &lt; 0.02</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>17090201</id>
+      <colorName>Yellow</colorName>
+      <shape>Cross</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>RecolHouse &gt; Baseline, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>RecolHouse &gt; Baseline, Autism Spectrum Disorder Patients (ASD)</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>NonRecolHouse &gt; Baseline, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>NonRecolHouse &gt; Baseline, ASD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>RecolFace &gt; Baseline, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>RecolFace &gt; Baseline, ASD</name>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>NonRecolFace &gt; Baseline, Controls</name>
+         <shown/>
+      </simpleExperiment>
+      <simpleExperiment>
+         <name>NonRecolFace &gt; Baseline, ASD</name>
+      </simpleExperiment>
+   </simplePaper>
+   <simplePaper>
+      <id>20060044</id>
+      <colorName>Pink</colorName>
+      <shape>Small Square</shape>
+      <shown/>
+      <simpleExperiment>
+         <name>Color Attention &gt; Monochrome Scrambled Faces</name>
+         <shown/>
+      </simpleExperiment>
+   </simplePaper>
+</workspace>

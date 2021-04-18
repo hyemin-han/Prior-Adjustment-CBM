@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH -n 1
+#SBATCH -c 46
+#SBATCH -p main
+#SBATCH --qos main
+#SBATCH -e errors.%A
+#SBATCH -o output.%A
+#SBATCH --mail-user hyemin.han@ua.edu
+
+date
+python run_meta_test.py 
+date

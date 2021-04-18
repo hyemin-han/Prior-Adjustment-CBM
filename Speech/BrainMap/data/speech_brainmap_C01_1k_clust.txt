@@ -1,0 +1,333 @@
+Mask:
+Reference Space               = MNI152
+Dimensions                    = 91x109x91
+Number of within-brain voxels = 262245
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+File of foci coordinates      = speech_brainmap.txt
+Number of foci                = 1164
+Number of experiments         = 135
+Total number of subjects      = 1955
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = speech_brainmap_ALE.nii
+FWHM minimum value            = 9.056468275459084
+FWHM median value             = 9.6586470675157
+FWHM maximum value            = 10.935527854620133
+Minimum ALE score             = 1.2029001E-17
+Maximum ALE score             = 0.07080177
+
+P Values: Eickhoff (HBM, 2009)
+File of P values              = speech_brainmap_P.nii
+Minimum P value               = 6.3933953E-19
+
+Thresholding:
+Threshold Method              = Cluster-level Inference
+Thresholding Value            = 0.01
+Thresholding Permutations     = 1000
+Cluster-Forming Method        = Uncorrected P value
+Cluster-Forming Value         = 0.001
+Volume > Threshold            = 69216 mm^3
+Chosen min. cluster size      = 1896 mm^3
+Thresholded ALE image         = speech_brainmap_C01_1k_ALE.nii
+
+Cluster Analysis:
+ #1: 30568 mm^3 from (-70,-52,-26) to (-36,10,30) centered at (-56.9,-21.8,4.4) with 6 peaks
+     with a max value of 0.0708 ALE, 6.3933953E-19 P, 8.81 Z at (-58,-18,2) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Left Cerebrum
+     Lobe: 80.9% Temporal Lobe, 7.6% Parietal Lobe, 5.9% Frontal Lobe, 5.6% Sub-lobar
+     Gyrus: 46.9% Superior Temporal Gyrus, 24.2% Middle Temporal Gyrus, 9.6% Transverse Temporal Gyrus, 6.2% Precentral Gyrus, 6.2% Postcentral Gyrus, 5.6% Insula, 1.3% Inferior Parietal Lobule
+     Cell Type: 31.9% Brodmann area 22, 17.7% Brodmann area 21, 16.2% Brodmann area 41, 6.3% Brodmann area 13, 6.2% Brodmann area 42, 5.9% Brodmann area 40, 3.8% Brodmann area 43, 3.7% Brodmann area 6, 2.6% Brodmann area 38
+
+ #2: 18744 mm^3 from (36,-44,-18) to (72,8,20) centered at (57.9,-17.4,1.2) with 6 peaks
+     with a max value of 0.0628 ALE, 3.4438348E-16 P, 8.07 Z at (58,-18,4) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Right Cerebrum
+     Lobe: 81.4% Temporal Lobe, 8.8% Sub-lobar, 5.6% Frontal Lobe, 4.3% Parietal Lobe
+     Gyrus: 54.7% Superior Temporal Gyrus, 14% Middle Temporal Gyrus, 12.7% Transverse Temporal Gyrus, 8.7% Insula, 5.7% Precentral Gyrus, 4.2% Postcentral Gyrus
+     Cell Type: 38.8% Brodmann area 22, 18.9% Brodmann area 41, 12% Brodmann area 21, 11.3% Brodmann area 13, 5.8% Brodmann area 43, 4.6% Brodmann area 42, 2.5% Brodmann area 6
+
+ #3: 10424 mm^3 from (-56,6,-18) to (-30,38,36) centered at (-44.1,20.2,4.7) with 7 peaks
+     with a max value of 0.0448 ALE, 1.7087022E-10 P, 6.28 Z at (-36,20,0) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Left Cerebrum
+     Lobe: 66.7% Frontal Lobe, 33.3% Sub-lobar
+     Gyrus: 53.8% Inferior Frontal Gyrus, 31.3% Insula, 11.9% Precentral Gyrus, 2% Claustrum, 1% Middle Frontal Gyrus
+     Cell Type: 30.3% Brodmann area 13, 19.4% Brodmann area 47, 16.4% Brodmann area 44, 13.4% Brodmann area 45, 9.6% Brodmann area 9, 1.5% Brodmann area 6
+
+ #4: 5608 mm^3 from (-8,0,42) to (8,24,70) centered at (-1.3,9.4,55.4) with 2 peaks
+     with a max value of 0.0393 ALE, 6.8009918E-9 P, 5.68 Z at (-2,6,64) 
+   Labels: (Gray Matter only)
+     Hemisphere: 84.5% Left Cerebrum, 15.5% Right Cerebrum
+     Lobe: 90.9% Frontal Lobe, 9.1% Limbic Lobe
+     Gyrus: 55.7% Medial Frontal Gyrus, 35.1% Superior Frontal Gyrus, 9.1% Cingulate Gyrus
+     Cell Type: 80.7% Brodmann area 6, 8.4% Brodmann area 24, 8.1% Brodmann area 32, 2.7% Brodmann area 8
+
+ #5: 3872 mm^3 from (-58,-18,32) to (-38,8,48) centered at (-49,-3.8,41.3) with 1 peaks
+     with a max value of 0.0471 ALE, 3.6647973E-11 P, 6.51 Z at (-48,-4,42) 
+   Labels: (Gray Matter only)
+     Hemisphere: 100% Left Cerebrum
+     Lobe: 90.8% Frontal Lobe, 9.2% Parietal Lobe
+     Gyrus: 81.1% Precentral Gyrus, 9.7% Middle Frontal Gyrus, 9.2% Postcentral Gyrus
+     Cell Type: 69.7% Brodmann area 6, 21.1% Brodmann area 4, 8.6% Brodmann area 3
+
+
+Experiment Table:
+[ 1 0 0 0 0 0 0 1 2 0 0 0 1 0 1 1 2 0 2 2 1 2 0 0 0 1 0 1 1 0 0 1 0 1 1 0 1 4 0 0 1 1 0 2 1 1 0 0 0 1 0 2 0 2 0 1 0 0 2 4 1 0 3 0 0 1 0 1 0 1 5 0 6 1 4 12 6 9 8 4 3 2 2 3 3 3 3 3 3 3 2 0 1 1 0 0 1 0 1 0 0 0 0 0 0 0 1 0 2 2 2 2 1 2 2 1 2 1 1 2 2 0 1 1 2 1 1 1 1 1 1 0 1 0 3 ]
+[ 0 0 0 0 0 0 0 0 3 0 0 0 1 1 1 2 2 0 0 0 0 1 0 1 0 2 1 1 1 0 0 0 0 1 1 2 2 3 0 1 0 0 1 0 0 1 1 1 0 1 0 0 0 1 0 0 1 1 0 4 1 0 1 0 0 0 0 0 0 1 0 2 2 4 0 6 0 3 3 4 3 0 2 2 3 1 2 2 3 3 2 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 2 1 2 2 2 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 ]
+[ 1 0 0 0 0 0 0 2 1 1 1 0 1 1 0 0 2 1 0 2 2 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 2 1 1 0 1 0 0 0 0 0 2 0 0 0 0 1 0 0 0 0 0 0 0 2 1 1 1 0 0 0 0 0 0 0 0 0 1 0 2 0 0 0 1 0 0 0 0 1 1 1 2 1 1 0 0 0 1 0 0 0 3 0 5 2 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 ]
+[ 0 0 0 0 0 0 0 0 2 0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 2 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 ]
+[ 0 0 0 0 0 0 1 0 1 0 1 1 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 ]
+
+Contributors to cluster #1
+1 foci from Klein D, 1999: Verb Generation minus Word Repetition (Chinese words) 
+1 foci from Bookheimer S Y, 1995: Read Words Silently - Words Control 
+2 foci from Bookheimer S Y, 1995: Read Words Aloud - Words Control 
+1 foci from Vanlancker-Sidtis D, 2003: Naming + Vocalization > Counting + Rest, Normals 
+1 foci from Vanlancker-Sidtis D, 2003: Counting > Vocalization + Naming + Rest, Normals 
+1 foci from Kemeny S, 2005: Syllable Generation vs. Rest, ASSIST 
+2 foci from Kemeny S, 2005: Sentence Construction vs. Rest, ASSIST 
+2 foci from Kemeny S, 2005: Syllable Generation vs. Rest, BOLD 
+2 foci from Kemeny S, 2005: Sentence Construction vs. Rest, BOLD 
+1 foci from Kemeny S, 2005: Sentence Construction vs. Syllable Generation, BOLD 
+2 foci from Lattner S, 2005: Natural Female > Natural Male 
+1 foci from Lattner S, 2005: Female Voices > Male Voices 
+1 foci from Schirmer A, 2004: Word Presentation > Rest, Females 
+1 foci from Schirmer A, 2004: Word Presentation > Rest, Males 
+1 foci from Imaizumi S, 1997: SI Task Activations 
+1 foci from Meyer M E, 2005: Laughter > Speech 
+1 foci from Meyer M E, 2005: Speech > Laughter 
+1 foci from Meyer M E, 2005: Laughter vs. Sounds and Speech vs. Sounds 
+4 foci from Jardri R, 2007: Passive Speech Listening (UFV - GT) 
+1 foci from Jardri R, 2007: Self-Other Distinction (UFV - SGV) 
+1 foci from Haller S, 2007: Simple - Fixation 
+2 foci from Haller S, 2007: Complex - Medium 
+1 foci from Husain F T, 2006: Category - Auditory, Tones 
+1 foci from Husain F T, 2006: Category - Auditory, Tonal Contours 
+1 foci from Kircher T T J, 2004: Fluent Speech > Speech Pauses 
+2 foci from Kircher T T J, 2004: Pauses within Clauses > Fluent Speech 
+2 foci from Saito Y, 2006: Synchronized Singing > Spontaneous Singing 
+1 foci from Saito Y, 2006: Synchronized Speaking > Spontaneous Speaking 
+2 foci from Brown S, 2008: Glottal Stops > Fixation 
+4 foci from Brown S, 2008: Phonation > Fixation 
+1 foci from Brown S, 2008: Lips > Fixation 
+3 foci from Sadato N, 2005: Face Movement Open vs. Closed, Hearing Subjects 
+1 foci from Haller S, 2005: Sentence Generation - Sentence Reading 
+1 foci from Obleser J, 2007: Voiced Consonants > Voiceless Consonants 
+1 foci from Fu C H Y, 2006: Self Undistorted > Self Distorted Feedback 
+5 foci from Fu C H Y, 2006: Self Distorted > Self Undistorted Feedback 
+6 foci from Fu C H Y, 2006: Alien Undistorted > Self Undistorted Feedback 
+1 foci from Fu C H Y, 2006: Self Distorted > Alien Undistorted Feedback 
+4 foci from Fu C H Y, 2006: Alien Undistorted > Self Distorted Feedback 
+12 foci from Fu C H Y, 2006: Self Undistorted Feedback> Rest 
+6 foci from Fu C H Y, 2006: Self Distorted Feedback> Rest 
+9 foci from Fu C H Y, 2006: Alien Undistorted Feedback > Rest 
+8 foci from Fu C H Y, 2006: Alien Distorted Feedback > Rest 
+4 foci from Fu C H Y, 2006: Self Distorted Correct Responses > Self Distorted  Misattribution Responses 
+3 foci from Leff A P, 2008: (Idioms + Rearranged Idioms + Time Reversed Idioms) vs.  Fixation 
+2 foci from Leff A P, 2008: (Idioms + Rearranged Idioms) - Time Reversed Idioms 
+2 foci from Specht K, 2003: Tones vs. Rest 
+3 foci from Specht K, 2003: Sounds vs. Rest 
+3 foci from Specht K, 2003: Words vs. Rest 
+3 foci from Specht K, 2003: Sounds vs. Tones 
+3 foci from Specht K, 2003: Words vs. Tones 
+3 foci from Specht K, 2003: Words vs. Sounds 
+3 foci from Tyler L K, 2005: (All Regulars - Baseline) - (All Irregulars - Baseline) 
+3 foci from Tyler L K, 2005: (Real Regulars - Baseline) - (Real Irregulars - Baseline) 
+2 foci from Tyler L K, 2005: (Regulars - Baseline) - (Additional Phonemes - Baseline) 
+1 foci from Adank P, 2012: Clear > Noise 
+1 foci from Adank P, 2012: Accent > Clear 
+1 foci from Adank P, 2012: Accent > Noise 
+1 foci from Adank P, 2012: [Noise + Accent] < Clear 
+1 foci from Loucks T, 2007: Vocalization > Rest 
+2 foci from Loucks T, 2007: Vocalization > Exhalation 
+2 foci from Dehaene-Lambertz G, 2006: First Presentation > Fourth Presentation 
+2 foci from Dehaene-Lambertz G, 2006: Fourth Presentation > First Presentation 
+2 foci from Dehaene-Lambertz G, 2006: First Presentation > Second Presentation 
+1 foci from Dehaene-Lambertz G, 2006: Regions Displaying Linear Habituation, All 4  Presentations 
+2 foci from Dehaene-Lambertz G, 2006: First Presentation vs. Second + Third + Fourth  Presentations 
+2 foci from Dehaene-Lambertz G, 2006: Main Effect of Sentence Repetition 
+1 foci from Dehaene-Lambertz G, 2006: Asymmetries in the Main Effect of Sentence  Repetition 
+2 foci from Dehaene-Lambertz G, 2006: Effect of Sentence Repetition Restricted to Same  Speaker Condition 
+1 foci from Dehaene-Lambertz G, 2006: Asymmetries in the Effect of Sentence Repetition  Restricted to Same Speaker Condition 
+1 foci from Dehaene-Lambertz G, 2006: Effect of Sentence Repetition Restricted to  Different Speaker Condition 
+2 foci from Dehaene-Lambertz G, 2006: Asymmetries in the Effect of Sentence Repetition  Restricted to Different Speaker Condition 
+2 foci from Dehaene-Lambertz G, 2006: Asymmetric First Sentence Activations 
+1 foci from Dehaene-Lambertz G, 2006: Interaction Between Sentence and Speaker  Repetition 
+1 foci from Friederici A D, 2010: Correct-Intelligible > Correct-Rotated 
+2 foci from Friederici A D, 2010: Incorrect-Intelligible > Correct Intelligible 
+1 foci from Angulo-Perkins A, 2014: Human vocalizations + music > Non-vocal sounds 
+1 foci from Angulo-Perkins A, 2014: Human vocalizations + music > Monkey vocalizations 
+1 foci from Angulo-Perkins A, 2014: Music > Human vocalizations 
+1 foci from Angulo-Perkins A, 2014: Human vocalizations > Music 
+1 foci from Angulo-Perkins A, 2014: Speech > Music 
+1 foci from Angulo-Perkins A, 2014: Music > Non-linguistic 
+1 foci from Angulo-Perkins A, 2014: Speech > Violin 
+3 foci from Samson F, 2012: All Sound - Silence Baseline, Healthy Controls 
+
+Contributors to cluster #2
+3 foci from Bookheimer S Y, 1995: Read Words Aloud - Words Control 
+1 foci from Vanlancker-Sidtis D, 2003: Naming + Vocalization > Counting + Rest, Normals 
+1 foci from Vanlancker-Sidtis D, 2003: Naming > Vocalization + Counting + Rest, Normals 
+1 foci from Vanlancker-Sidtis D, 2003: Counting > Vocalization + Naming + Rest, Normals 
+2 foci from Kemeny S, 2005: Syllable Generation vs. Rest, ASSIST 
+2 foci from Kemeny S, 2005: Sentence Construction vs. Rest, ASSIST 
+1 foci from Lattner S, 2005: Natural Female > Natural Male 
+1 foci from Lattner S, 2005: High Pitch > Low Pitch 
+2 foci from Lattner S, 2005: Female Voices > Male Voices 
+1 foci from Lattner S, 2005: Odd Voices > Natural Voices 
+1 foci from Schirmer A, 2004: Word Presentation > Rest, Females 
+1 foci from Schirmer A, 2004: Word Presentation > Rest, Males 
+1 foci from Meyer M E, 2005: Laughter > Speech 
+1 foci from Meyer M E, 2005: Speech > Laughter 
+2 foci from Meyer M E, 2005: Laughter > Sounds 
+2 foci from Meyer M E, 2005: Laughter vs. Sounds and Speech vs. Sounds 
+3 foci from Jardri R, 2007: Passive Speech Listening (UFV - GT) 
+1 foci from Jardri R, 2007: Intelligible Speech (UFV - RTV) 
+1 foci from Haller S, 2007: Medium - Simple 
+1 foci from Husain F T, 2006: Category - Auditory, Tonal Contours 
+1 foci from Husain F T, 2006: Category - Auditory, Vowels 
+1 foci from Husain F T, 2006: Category - Auditory, Syllables 
+1 foci from Kircher T T J, 2004: Fluent Speech > Speech Pauses 
+1 foci from Saito Y, 2006: Synchronized Singing > Spontaneous Singing 
+1 foci from Saito Y, 2006: Spontaneous Singing > Spontaneous Speaking 
+1 foci from Saito Y, 2006: Synchronized Singing > Synchronized Speaking 
+4 foci from Brown S, 2008: Phonation > Fixation 
+1 foci from Brown S, 2008: Lips > Fixation 
+1 foci from Sadato N, 2005: Face Movement Open vs. Closed, Hearing Subjects 
+1 foci from Fu C H Y, 2006: Self Undistorted > Self Distorted Feedback 
+2 foci from Fu C H Y, 2006: Self Undistorted > Alien Undistorted Feedback 
+2 foci from Fu C H Y, 2006: Alien Undistorted > Self Undistorted Feedback 
+4 foci from Fu C H Y, 2006: Self Distorted > Alien Undistorted Feedback 
+6 foci from Fu C H Y, 2006: Self Undistorted Feedback> Rest 
+3 foci from Fu C H Y, 2006: Alien Undistorted Feedback > Rest 
+3 foci from Fu C H Y, 2006: Alien Distorted Feedback > Rest 
+4 foci from Fu C H Y, 2006: Self Distorted Correct Responses > Self Distorted  Misattribution Responses 
+3 foci from Leff A P, 2008: (Idioms + Rearranged Idioms + Time Reversed Idioms) vs.  Fixation 
+2 foci from Specht K, 2003: Tones vs. Rest 
+2 foci from Specht K, 2003: Sounds vs. Rest 
+3 foci from Specht K, 2003: Words vs. Rest 
+1 foci from Specht K, 2003: Sounds vs. Tones 
+2 foci from Specht K, 2003: Words vs. Tones 
+2 foci from Specht K, 2003: Words vs. Sounds 
+3 foci from Tyler L K, 2005: (All Regulars - Baseline) - (All Irregulars - Baseline) 
+3 foci from Tyler L K, 2005: (Real Regulars - Baseline) - (Real Irregulars - Baseline) 
+2 foci from Tyler L K, 2005: (Regulars - Baseline) - (Additional Phonemes - Baseline) 
+1 foci from Adank P, 2012: Clear > Noise 
+1 foci from Adank P, 2012: Accent > Noise 
+1 foci from Adank P, 2012: [Noise + Accent] < Clear 
+2 foci from Dehaene-Lambertz G, 2006: First Presentation > Fourth Presentation 
+1 foci from Dehaene-Lambertz G, 2006: Fourth Presentation > First Presentation 
+2 foci from Dehaene-Lambertz G, 2006: First Presentation > Second Presentation 
+2 foci from Dehaene-Lambertz G, 2006: Regions Displaying Linear Habituation, All 4  Presentations 
+2 foci from Dehaene-Lambertz G, 2006: First Presentation vs. Second + Third + Fourth  Presentations 
+1 foci from Dehaene-Lambertz G, 2006: Interaction Between Sentence and Speaker  Repetition 
+1 foci from Friederici A D, 2010: Correct-Intelligible > Correct-Rotated 
+1 foci from Friederici A D, 2010: Incorrect-Intelligible > Correct Intelligible 
+1 foci from Angulo-Perkins A, 2014: Human vocalizations + music > Non-vocal sounds 
+1 foci from Angulo-Perkins A, 2014: Human vocalizations + music > Monkey vocalizations 
+1 foci from Angulo-Perkins A, 2014: Music > Human vocalizations 
+1 foci from Angulo-Perkins A, 2014: Human vocalizations > Music 
+1 foci from Angulo-Perkins A, 2014: Speech > Music 
+1 foci from Angulo-Perkins A, 2014: Music > Non-linguistic 
+1 foci from Angulo-Perkins A, 2014: Speech > Violin 
+1 foci from Angulo-Perkins A, 2014: Music > Human|musicians > Non-musicians 
+1 foci from Samson F, 2012: All Sound - Silence Baseline, Healthy Controls 
+
+Contributors to cluster #3
+1 foci from Klein D, 1999: Verb Generation minus Word Repetition (Chinese words) 
+2 foci from Bookheimer S Y, 1995: Read Words Silently - Words Control 
+1 foci from Bookheimer S Y, 1995: Read Words Aloud - Words Control 
+1 foci from Bookheimer S Y, 1995: Name Objects Silently - Objects Control 
+1 foci from Bookheimer S Y, 1995: Name Objects Aloud - Objects Control 
+1 foci from Vanlancker-Sidtis D, 2003: Naming + Vocalization > Counting + Rest, Normals 
+1 foci from Vanlancker-Sidtis D, 2003: Naming > Vocalization + Counting + Rest, Normals 
+2 foci from Kemeny S, 2005: Sentence Construction vs. Rest, ASSIST 
+1 foci from Kemeny S, 2005: Sentence Construction vs. Syllable Generation, ASSIST 
+2 foci from Kemeny S, 2005: Sentence Construction vs. Rest, BOLD 
+2 foci from Kemeny S, 2005: Sentence Construction vs. Syllable Generation, BOLD 
+1 foci from Schirmer A, 2004: Incongruous > Congruous Presentations, Females 
+1 foci from Schirmer A, 2004: Incongruous > Congruous Presentations, All Subjects 
+1 foci from Meyer M E, 2005: Speech > Laughter 
+2 foci from Jardri R, 2007: Intelligible Speech (UFV - RTV) 
+1 foci from Jardri R, 2007: Self-Other Distinction (UFV - SGV) 
+1 foci from Haller S, 2007: Simple - Fixation 
+1 foci from Haller S, 2007: Complex - Medium 
+2 foci from Kircher T T J, 2004: Fluent Speech > Speech Pauses 
+1 foci from Saito Y, 2006: Spontaneous Speaking > Synchronized Speaking 
+2 foci from Sadato N, 2005: Face Movement Open vs. Closed, Hearing Subjects 
+1 foci from Sadato N, 2005: Discrimination vs. Non Discrimination, Hearing Signers 
+1 foci from Haller S, 2005: Sentence Generation - Word Reading 
+1 foci from Haller S, 2005: Sentence Generation - Sentence Reading 
+1 foci from Fu C H Y, 2006: Self Undistorted Feedback> Rest 
+2 foci from Fu C H Y, 2006: Alien Undistorted Feedback > Rest 
+1 foci from Leff A P, 2008: (Idioms + Rearranged Idioms) - Time Reversed Idioms 
+1 foci from Specht K, 2003: Words vs. Tones 
+1 foci from Specht K, 2003: Words vs. Sounds 
+1 foci from Tyler L K, 2005: (All Regulars - Baseline) - (All Irregulars - Baseline) 
+2 foci from Tyler L K, 2005: (Real Regulars - Baseline) - (Real Irregulars - Baseline) 
+1 foci from Tyler L K, 2005: (Regulars - Baseline) - (Additional Phonemes - Baseline) 
+1 foci from Adank P, 2012: Noise > Clear 
+1 foci from Adank P, 2012: Noise > Accent 
+3 foci from Marvel C L, 2012: Manipulation (2 target -1 target) vs Storage (2 target -1  target) during delay 
+5 foci from Abrahams S, 2003: Verbal Fluency 
+2 foci from Abrahams S, 2003: Confrontation Naming 
+1 foci from Dehaene-Lambertz G, 2006: First Presentation > Fourth Presentation 
+1 foci from Dehaene-Lambertz G, 2006: First Presentation > Second Presentation 
+1 foci from Angulo-Perkins A, 2014: Human vocalizations > Music 
+1 foci from Angulo-Perkins A, 2014: Speech > Music 
+1 foci from Angulo-Perkins A, 2014: Speech > Violin 
+
+Contributors to cluster #4
+2 foci from Bookheimer S Y, 1995: Read Words Aloud - Words Control 
+1 foci from Bookheimer S Y, 1995: Name Objects Aloud - Objects Control 
+1 foci from Fox P T, 2000: Positive syllable rate correlates, Controls 
+1 foci from Vanlancker-Sidtis D, 2003: Naming + Vocalization > Counting + Rest, Normals 
+1 foci from Kemeny S, 2005: Sentence Construction vs. Rest, BOLD 
+1 foci from Kemeny S, 2005: Sentence Construction vs. Syllable Generation, BOLD 
+1 foci from Jardri R, 2007: Passive Speech Listening (UFV - GT) 
+2 foci from Jardri R, 2007: Intelligible Speech (UFV - RTV) 
+1 foci from Haller S, 2007: Simple - Fixation 
+1 foci from Haller S, 2007: Medium - Simple 
+1 foci from Haller S, 2007: Complex - Medium 
+1 foci from Husain F T, 2006: Category - Auditory, Syllables 
+1 foci from Brown S, 2008: Glottal Stops > Fixation 
+1 foci from Brown S, 2008: Phonation > Fixation 
+1 foci from Brown S, 2008: Lips > Fixation 
+1 foci from Brown S, 2008: Tongue Movement > Fixation 
+1 foci from Sadato N, 2005: Face Movement Open vs. Closed, Hearing Subjects 
+2 foci from Sadato N, 2005: Discrimination vs. Non Discrimination, Hearing Signers 
+2 foci from Haller S, 2005: Sentence Generation - Word Reading 
+1 foci from Haller S, 2005: Sentence Generation - Sentence Reading 
+1 foci from Specht K, 2003: Sounds vs. Rest 
+1 foci from Specht K, 2003: Words vs. Rest 
+1 foci from Specht K, 2003: Sounds vs. Tones 
+1 foci from Specht K, 2003: Words vs. Tones 
+1 foci from Marvel C L, 2012: Manipulation (2 target -1 target) vs Storage (2 target -1  target) during delay 
+1 foci from Abrahams S, 2003: Verbal Fluency 
+1 foci from Samson F, 2012: All Sound - Silence Baseline, Healthy Controls 
+
+Contributors to cluster #5
+1 foci from Lotze M, 2000: /pataka/ vs. Rest 
+1 foci from Bookheimer S Y, 1995: Read Words Aloud - Words Control 
+1 foci from Bookheimer S Y, 1995: Name Objects Aloud - Objects Control 
+1 foci from Fox P T, 2000: Positive syllable rate correlates, Controls 
+1 foci from Vanlancker-Sidtis D, 2003: Naming + Vocalization > Counting + Rest, Normals 
+1 foci from Kemeny S, 2005: Syllable Generation vs. Rest, ASSIST 
+1 foci from Kemeny S, 2005: Sentence Construction vs. Syllable Generation, ASSIST 
+1 foci from Jardri R, 2007: Passive Speech Listening (UFV - GT) 
+1 foci from Jardri R, 2007: Intelligible Speech (UFV - RTV) 
+1 foci from Kircher T T J, 2004: Fluent Speech > Speech Pauses 
+1 foci from Brown S, 2008: Glottal Stops > Fixation 
+1 foci from Brown S, 2008: Phonation > Fixation 
+1 foci from Sadato N, 2005: Face Movement Open vs. Closed, Hearing Subjects 
+2 foci from Specht K, 2003: Words vs. Rest 
+1 foci from Marvel C L, 2012: Manipulation (2 target -1 target) vs Storage (2 target -1  target) during delay 
+1 foci from Loucks T, 2007: Vocalization > Rest 
+1 foci from Loucks T, 2007: Exhalation > Rest 
+1 foci from Angulo-Perkins A, 2014: Speech > Music 
+1 foci from Angulo-Perkins A, 2014: Speech > Violin 
+1 foci from Samson F, 2012: All Sound - Silence Baseline, Healthy Controls 
