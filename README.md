@@ -13,40 +13,40 @@ Caution: before running the example run_meta_test.py listed below, modify "cores
 
 1. Working memory  </p>
 1-1. DeYoung et al. (2009) </p>
-	a. prior determination with image-based meta-analysis </p>
-		./working_memory/IBM/DeYoung/ (for source code, refer to https://github.com/hyemin-han/Prior-Adjustment-BayesFactorFMRI/tree/master/Working_memory_fMRI/BayesFactorFMRI) </p> 
-	b. prior determination with BrainMap + Ginger ALE </p>
-		./working_memory/BrainMap/DeYoung/run_meta_test.py </p>
-	c. prior determination with NeuroQuery </p>
-		./working_memory/NeuroQuery/DeYoung/run_meta_test.py </p>
+a. prior determination with image-based meta-analysis </p>
+./working_memory/IBM/DeYoung/ (for source code, refer to https://github.com/hyemin-han/Prior-Adjustment-BayesFactorFMRI/tree/master/Working_memory_fMRI/BayesFactorFMRI) </p> 
+b. prior determination with BrainMap + Ginger ALE </p>
+./working_memory/BrainMap/DeYoung/run_meta_test.py </p>
+c. prior determination with NeuroQuery </p>
+./working_memory/NeuroQuery/DeYoung/run_meta_test.py </p></p>
 
 1-2. Henson et al. (2002)</p>
 a. prior determination with image-based meta-analysis</p>
-	./working_memory/IBM/Henson/ (for source code, refer to https://github.com/hyemin-han/Prior-Adjustment-BayesFactorFMRI/tree/master/Working_memory_fMRI_2/BayesFactorFMRI)</p>
+./working_memory/IBM/Henson/ (for source code, refer to https://github.com/hyemin-han/Prior-Adjustment-BayesFactorFMRI/tree/master/Working_memory_fMRI_2/BayesFactorFMRI)</p>
 b. prior determination with BrainMap + Ginger ALE</p>
-	./working_memory/BrainMap/Henson/run_meta_test.py</p>
+./working_memory/BrainMap/Henson/run_meta_test.py</p>
 c. prior determination with NeuroQuery</p>
-	./working_memory/NeuroQuery/HCP/run_meta_test.py</p>
+./working_memory/NeuroQuery/HCP/run_meta_test.py</p></p>
 
 1-3. Pinho et al. (2020)</p>
 a. prior determination with image-based meta-analysis</p>
-	./working_memory/IBM/HCP/run_meta_test.py</p>
+./working_memory/IBM/HCP/run_meta_test.py</p>
 b. prior determination with BrainMap + Ginger ALE</p>
-	./working_memory/BrainMap/HCP/run_meta_test.py</p>
+./working_memory/BrainMap/HCP/run_meta_test.py</p>
 c. prior determination with NeuroQuery</p>
-	./working_memory/NeuroQuery/HCP/run_meta_test.py</p>
+./working_memory/NeuroQuery/HCP/run_meta_test.py</p></p>
 
 2. Speech</p>
-	a. prior determination with BrainMap + Ginger ALE</p>
-		./Speech/BrainMap/HCP/run_meta_test.py</p>
-	b. prior determination with NeuroQuery</p>
-		./Speech/NeuroQuery/HCP/run_meta_test.py</p>
+a. prior determination with BrainMap + Ginger ALE</p>
+./Speech/BrainMap/HCP/run_meta_test.py</p>
+b. prior determination with NeuroQuery</p>
+./Speech/NeuroQuery/HCP/run_meta_test.py</p></p>
 
 3. Face</p>
-	a. prior determination with BrainMap + Ginger ALE</p>
-		./Face/BrainMap/Gordon/run_meta_test.py</p>
-	b. prior determination with NeuroQuery</p>
-		./Face/NeuroQuery/Gordon/run_meta_test.py</p></p>
+a. prior determination with BrainMap + Ginger ALE</p>
+./Face/BrainMap/Gordon/run_meta_test.py</p>
+b. prior determination with NeuroQuery</p>
+./Face/NeuroQuery/Gordon/run_meta_test.py</p></p>
 
 # Run your own analysis
 Source code and required files are available ./src. First, copy all nii files (including mask.nii generated from frequentist analysis (e.g,. SPM)) into the same folder. Second, modify "./src/list.csv" to include names of all nii files to be analyzed. Third, modify C (mean contrast), N (noise strength; in this study, standard deviation of all analyzed voxels), R (proportion of significant voxels), cores values in ./src/run_meta_test.py. Fourth, run "run_meta_test.py"
