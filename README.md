@@ -3,7 +3,7 @@
 Han, H. (2020). BayesFactorFMRI: Implementing Bayesian second-level fMRI analysis with multiple comparison correction and Bayesian meta-analysis of fMRI images with multiprocessing. Journal of Open Research Software.
 Han, H. (2021). A method to adjust a prior distribution in Bayesian second-level fMRI analysis. PeerJ, 9. https://doi.org/10.7717/peerj.10861
 
-If you used image-based meta-analysis:
+If you used image-based meta-analysis:</p>
 Han, H., & Park, J. (2019). Bayesian meta-analysis of fMRI image data. Cognitive Neuroscience, 10(2), 66–76. https://doi.org/10.1080/17588928.2019.1570103
 
 # Testing different meta-analyses for prior determination in voxelwise Bayesian second-level fMRI analysis
